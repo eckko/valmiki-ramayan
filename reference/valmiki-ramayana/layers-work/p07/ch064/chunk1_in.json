@@ -1,0 +1,504 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "07.064.1a",
+   "07.064.1b"
+  ],
+  "lines_deva": [
+   "प्रस्थाप्य तु स शत्रुघ्नं भ्रातृभ्यां सह राघवः",
+   "प्रमुमोद सुखी राज्यं धर्मेण परिपालयन्"
+  ],
+  "lines_iast": [
+   "prasthāpya tu sa śatrughnaṃ bhrātṛbhyāṃ saha rāghavaḥ",
+   "pramumoda sukhī rājyaṃ dharmeṇa paripālayan"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "07.064.2a",
+   "07.064.2b"
+  ],
+  "lines_deva": [
+   "ततः कतिपयाहःसु वृद्धो जानपदो द्विजः",
+   "शवं बालमुपादाय राजद्वारमुपागमत्"
+  ],
+  "lines_iast": [
+   "tataḥ katipayāhaḥsu vṛddho jānapado dvijaḥ",
+   "śavaṃ bālamupādāya rājadvāramupāgamat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "07.064.3a",
+   "07.064.3b"
+  ],
+  "lines_deva": [
+   "रुदन् बहुविधा वाचः स्नेहाक्षरसमन्विताः",
+   "असकृत्पुत्रपुत्रेति वाक्यमेतदुवाच ह"
+  ],
+  "lines_iast": [
+   "rudan bahuvidhā vācaḥ snehākṣarasamanvitāḥ",
+   "asakṛtputraputreti vākyametaduvāca ha"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "07.064.4a",
+   "07.064.4b"
+  ],
+  "lines_deva": [
+   "किं नु मे दुष्कृतं कर्म पूर्वं देहान्तरे कृतम्",
+   "यदहं पुत्रमेकं त्वां पश्यामि निधनं गतम्"
+  ],
+  "lines_iast": [
+   "kiṃ nu me duṣkṛtaṃ karma pūrvaṃ dehāntare kṛtam",
+   "yadahaṃ putramekaṃ tvāṃ paśyāmi nidhanaṃ gatam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "07.064.5a",
+   "07.064.5b"
+  ],
+  "lines_deva": [
+   "अप्राप्तयौवनं बालं पञ्चवर्षसमन्वितम्",
+   "अकाले कालमापन्नं दुःखाय मम पुत्रक"
+  ],
+  "lines_iast": [
+   "aprāptayauvanaṃ bālaṃ pañcavarṣasamanvitam",
+   "akāle kālamāpannaṃ duḥkhāya mama putraka"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "07.064.6a",
+   "07.064.6b"
+  ],
+  "lines_deva": [
+   "अल्पैरहोभिर्निधनं गमिष्यामि न संशयः",
+   "अहं च जननी चैव तव शोकेन पुत्रक"
+  ],
+  "lines_iast": [
+   "alpairahobhirnidhanaṃ gamiṣyāmi na saṃśayaḥ",
+   "ahaṃ ca jananī caiva tava śokena putraka"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "07.064.7a",
+   "07.064.7b",
+   "07.064.7c"
+  ],
+  "lines_deva": [
+   "न स्मराम्यनृतं ह्युक्तं न च हिंसां स्मराम्यहम्",
+   "केन मे दुष्कृतेनाद्य बाल एव ममात्मजः",
+   "अकृत्वा पितृकार्याणि नीतो वैवस्वतक्षयम्"
+  ],
+  "lines_iast": [
+   "na smarāmyanṛtaṃ hyuktaṃ na ca hiṃsāṃ smarāmyaham",
+   "kena me duṣkṛtenādya bāla eva mamātmajaḥ",
+   "akṛtvā pitṛkāryāṇi nīto vaivasvatakṣayam"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "8",
+  "type": "verse",
+  "line_ids": [
+   "07.064.8a",
+   "07.064.8b"
+  ],
+  "lines_deva": [
+   "नेदृशं दृष्टपूर्वं मे श्रुतं वा घोरदर्शनम्",
+   "मृत्युरप्राप्तकालानां रामस्य विषये यथा"
+  ],
+  "lines_iast": [
+   "nedṛśaṃ dṛṣṭapūrvaṃ me śrutaṃ vā ghoradarśanam",
+   "mṛtyuraprāptakālānāṃ rāmasya viṣaye yathā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "9",
+  "type": "verse",
+  "line_ids": [
+   "07.064.9a",
+   "07.064.9b"
+  ],
+  "lines_deva": [
+   "रामस्य दुष्कृतं किं चिन्महदस्ति न संशयः",
+   "त्वं राजञ्जीवयस्वैनं बालं मृत्युवशं गतम्"
+  ],
+  "lines_iast": [
+   "rāmasya duṣkṛtaṃ kiṃ cinmahadasti na saṃśayaḥ",
+   "tvaṃ rājañjīvayasvainaṃ bālaṃ mṛtyuvaśaṃ gatam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "10",
+  "type": "verse",
+  "line_ids": [
+   "07.064.10a",
+   "07.064.10b"
+  ],
+  "lines_deva": [
+   "भ्रातृभिः सहितो राजन् दीर्घमायुरवाप्नुहि",
+   "उषिताः स्म सुखं राज्ये तवास्मिन् सुमहाबल"
+  ],
+  "lines_iast": [
+   "bhrātṛbhiḥ sahito rājan dīrghamāyuravāpnuhi",
+   "uṣitāḥ sma sukhaṃ rājye tavāsmin sumahābala"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "11",
+  "type": "verse",
+  "line_ids": [
+   "07.064.11a",
+   "07.064.11b"
+  ],
+  "lines_deva": [
+   "सम्प्रत्यनाथो विषय इक्ष्वाकूणां महात्मनाम्",
+   "रामं नाथमिहासाद्य बालान्तकरणं नृपम्"
+  ],
+  "lines_iast": [
+   "sampratyanātho viṣaya ikṣvākūṇāṃ mahātmanām",
+   "rāmaṃ nāthamihāsādya bālāntakaraṇaṃ nṛpam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "12",
+  "type": "verse",
+  "line_ids": [
+   "07.064.12a",
+   "07.064.12b"
+  ],
+  "lines_deva": [
+   "राजदोषैर्विपद्यन्ते प्रजा ह्यविधिपालिताः",
+   "असद्वृत्ते तु नृपतावकाले म्रियते जनः"
+  ],
+  "lines_iast": [
+   "rājadoṣairvipadyante prajā hyavidhipālitāḥ",
+   "asadvṛtte tu nṛpatāvakāle mriyate janaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "13",
+  "type": "verse",
+  "line_ids": [
+   "07.064.13a",
+   "07.064.13b"
+  ],
+  "lines_deva": [
+   "यदा पुरेष्वयुक्तानि जना जनपदेशु च",
+   "कुर्वते न च रक्षास्ति तदाकालकृतं भयम्"
+  ],
+  "lines_iast": [
+   "yadā pureṣvayuktāni janā janapadeśu ca",
+   "kurvate na ca rakṣāsti tadākālakṛtaṃ bhayam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "14",
+  "type": "verse",
+  "line_ids": [
+   "07.064.14a",
+   "07.064.14b"
+  ],
+  "lines_deva": [
+   "सव्यक्तं राजदोषोऽयं भविष्यति न संशयः",
+   "पुरे जनपदे वापि तदा बालवधो ह्ययम्"
+  ],
+  "lines_iast": [
+   "savyaktaṃ rājadoṣo'yaṃ bhaviṣyati na saṃśayaḥ",
+   "pure janapade vāpi tadā bālavadho hyayam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "15",
+  "type": "verse",
+  "line_ids": [
+   "07.064.15a",
+   "07.064.15b"
+  ],
+  "lines_deva": [
+   "एवं बहुविधैर्वाक्यैर्निन्दयानो मुहुर्मुहुः",
+   "राजानं दुःखसन्तप्तः सुतं तमुपगूहति"
+  ],
+  "lines_iast": [
+   "evaṃ bahuvidhairvākyairnindayāno muhurmuhuḥ",
+   "rājānaṃ duḥkhasantaptaḥ sutaṃ tamupagūhati"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ }
+]

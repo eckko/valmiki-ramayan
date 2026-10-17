@@ -1,0 +1,801 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "01.052.1a",
+   "01.052.1b"
+  ],
+  "lines_deva": [
+   "एवमुक्ता वसिष्ठेन शबला शत्रुसूदन",
+   "विदधे कामधुक्कामान् यस्य यस्य यथेप्सितम्"
+  ],
+  "lines_iast": [
+   "evamuktā vasiṣṭhena śabalā śatrusūdana",
+   "vidadhe kāmadhukkāmān yasya yasya yathepsitam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "01.052.2a",
+   "01.052.2b"
+  ],
+  "lines_deva": [
+   "इक्षून्मधूंस्तथा लाजान्मैरेयांश्च वरासवान्",
+   "पानानि च महार्हाणि भक्ष्यांश्चोच्चावचांस्तथा"
+  ],
+  "lines_iast": [
+   "ikṣūnmadhūṃstathā lājānmaireyāṃśca varāsavān",
+   "pānāni ca mahārhāṇi bhakṣyāṃścoccāvacāṃstathā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "01.052.3a",
+   "01.052.3b"
+  ],
+  "lines_deva": [
+   "उष्णाढ्यस्यौदनस्यापि राशयः पर्वतोपमाः",
+   "मृष्टान्नानि च सूपाश्च दधिकुल्यास्तथैव च"
+  ],
+  "lines_iast": [
+   "uṣṇāḍhyasyaudanasyāpi rāśayaḥ parvatopamāḥ",
+   "mṛṣṭānnāni ca sūpāśca dadhikulyāstathaiva ca"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "01.052.4a",
+   "01.052.4b"
+  ],
+  "lines_deva": [
+   "नानास्वादुरसानां च षाडवानां तथैव च",
+   "भाजनानि सुपूर्णानि गौडानि च सहस्रशः"
+  ],
+  "lines_iast": [
+   "nānāsvādurasānāṃ ca ṣāḍavānāṃ tathaiva ca",
+   "bhājanāni supūrṇāni gauḍāni ca sahasraśaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "01.052.5a",
+   "01.052.5b"
+  ],
+  "lines_deva": [
+   "सर्वमासीत्सुसन्तुष्टं हृष्टपुष्टजनाकुलम्",
+   "विश्वामित्रबलं राम वसिष्ठेनाभितर्पितम्"
+  ],
+  "lines_iast": [
+   "sarvamāsītsusantuṣṭaṃ hṛṣṭapuṣṭajanākulam",
+   "viśvāmitrabalaṃ rāma vasiṣṭhenābhitarpitam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "01.052.6a",
+   "01.052.6b"
+  ],
+  "lines_deva": [
+   "विश्वामित्रोऽपि राजर्षिर्हृष्टपुष्टस्तदाभवत्",
+   "सान्तः पुरवरो राजा सब्राह्मणपुरोहितः"
+  ],
+  "lines_iast": [
+   "viśvāmitro'pi rājarṣirhṛṣṭapuṣṭastadābhavat",
+   "sāntaḥ puravaro rājā sabrāhmaṇapurohitaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "01.052.7a",
+   "01.052.7b"
+  ],
+  "lines_deva": [
+   "सामात्यो मन्त्रिसहितः सभृत्यः पूजितस्तदा",
+   "युक्तः परेण हर्षेण वसिष्ठमिदमब्रवीत्"
+  ],
+  "lines_iast": [
+   "sāmātyo mantrisahitaḥ sabhṛtyaḥ pūjitastadā",
+   "yuktaḥ pareṇa harṣeṇa vasiṣṭhamidamabravīt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "8",
+  "type": "verse",
+  "line_ids": [
+   "01.052.8a",
+   "01.052.8b"
+  ],
+  "lines_deva": [
+   "पूजितोऽहं त्वया ब्रह्मन् पूजार्हेण सुसत्कृतः",
+   "श्रूयतामभिधास्यामि वाक्यं वाक्यविशारद"
+  ],
+  "lines_iast": [
+   "pūjito'haṃ tvayā brahman pūjārheṇa susatkṛtaḥ",
+   "śrūyatāmabhidhāsyāmi vākyaṃ vākyaviśārada"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "9",
+  "type": "verse",
+  "line_ids": [
+   "01.052.9a",
+   "01.052.9b",
+   "01.052.9c"
+  ],
+  "lines_deva": [
+   "गवां शतसहस्रेण दीयतां शबला मम",
+   "रत्नं हि भगवन्नेतद्रत्नहारी च पार्थिवः",
+   "तस्मान्मे शबलां देहि ममैषा धर्मतो द्विज"
+  ],
+  "lines_iast": [
+   "gavāṃ śatasahasreṇa dīyatāṃ śabalā mama",
+   "ratnaṃ hi bhagavannetadratnahārī ca pārthivaḥ",
+   "tasmānme śabalāṃ dehi mamaiṣā dharmato dvija"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "10",
+  "type": "verse",
+  "line_ids": [
+   "01.052.10a",
+   "01.052.10b"
+  ],
+  "lines_deva": [
+   "एवमुक्तस्तु भगवान् वसिष्ठो मुनिसत्तमः",
+   "विश्वामित्रेण धर्मात्मा प्रत्युवाच महीपतिम्"
+  ],
+  "lines_iast": [
+   "evamuktastu bhagavān vasiṣṭho munisattamaḥ",
+   "viśvāmitreṇa dharmātmā pratyuvāca mahīpatim"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "11",
+  "type": "verse",
+  "line_ids": [
+   "01.052.11a",
+   "01.052.11b"
+  ],
+  "lines_deva": [
+   "नाहं शतसहस्रेण नापि कोटिशतैर्गवाम्",
+   "राजन् दास्यामि शबलां राशिभी रजतस्य वा"
+  ],
+  "lines_iast": [
+   "nāhaṃ śatasahasreṇa nāpi koṭiśatairgavām",
+   "rājan dāsyāmi śabalāṃ rāśibhī rajatasya vā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "12",
+  "type": "verse",
+  "line_ids": [
+   "01.052.12a",
+   "01.052.12b"
+  ],
+  "lines_deva": [
+   "न परित्यागमर्हेयं मत्सकाशादरिन्दम",
+   "शाश्वती शबला मह्यं कीर्तिरात्मवतो यथा"
+  ],
+  "lines_iast": [
+   "na parityāgamarheyaṃ matsakāśādarindama",
+   "śāśvatī śabalā mahyaṃ kīrtirātmavato yathā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "13",
+  "type": "verse",
+  "line_ids": [
+   "01.052.13a",
+   "01.052.13b"
+  ],
+  "lines_deva": [
+   "अस्यां हव्यं च कव्यं च प्राणयात्रा तथैव च",
+   "आयत्तमग्निहोत्रं च बलिर्होमस्तथैव च"
+  ],
+  "lines_iast": [
+   "asyāṃ havyaṃ ca kavyaṃ ca prāṇayātrā tathaiva ca",
+   "āyattamagnihotraṃ ca balirhomastathaiva ca"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "14",
+  "type": "verse",
+  "line_ids": [
+   "01.052.14a",
+   "01.052.14b"
+  ],
+  "lines_deva": [
+   "स्वाहाकारवषट्कारौ विद्याश्च विविधास्तथा",
+   "आयत्तमत्र राजर्षे सर्वमेतन्न संशयः"
+  ],
+  "lines_iast": [
+   "svāhākāravaṣaṭkārau vidyāśca vividhāstathā",
+   "āyattamatra rājarṣe sarvametanna saṃśayaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "15",
+  "type": "verse",
+  "line_ids": [
+   "01.052.15a",
+   "01.052.15b"
+  ],
+  "lines_deva": [
+   "सर्व स्वमेतत्सत्येन मम तुष्टिकरी सदा",
+   "कारणैर्बहुभी राजन्न दास्ये शबलां तव"
+  ],
+  "lines_iast": [
+   "sarva svametatsatyena mama tuṣṭikarī sadā",
+   "kāraṇairbahubhī rājanna dāsye śabalāṃ tava"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "16",
+  "type": "verse",
+  "line_ids": [
+   "01.052.16a",
+   "01.052.16b"
+  ],
+  "lines_deva": [
+   "वसिष्ठेनैवमुक्तस्तु विश्वामित्रोऽब्रवीत्ततः",
+   "संरब्धतरमत्यर्थं वाक्यं वाक्यविशारदः"
+  ],
+  "lines_iast": [
+   "vasiṣṭhenaivamuktastu viśvāmitro'bravīttataḥ",
+   "saṃrabdhataramatyarthaṃ vākyaṃ vākyaviśāradaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "17",
+  "type": "verse",
+  "line_ids": [
+   "01.052.17a",
+   "01.052.17b"
+  ],
+  "lines_deva": [
+   "हैरण्यकक्ष्याग्रैवेयान् सुवर्णाङ्कुशभूषितान्",
+   "ददामि कुञ्जराणां ते सहस्राणि चतुर्दश"
+  ],
+  "lines_iast": [
+   "hairaṇyakakṣyāgraiveyān suvarṇāṅkuśabhūṣitān",
+   "dadāmi kuñjarāṇāṃ te sahasrāṇi caturdaśa"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "18",
+  "type": "verse",
+  "line_ids": [
+   "01.052.18a",
+   "01.052.18b"
+  ],
+  "lines_deva": [
+   "हैरण्यानां रथानां च श्वेताश्वानां चतुर्युजाम्",
+   "ददामि ते शतान्यष्टौ किङ्किणीकविभूषितान्"
+  ],
+  "lines_iast": [
+   "hairaṇyānāṃ rathānāṃ ca śvetāśvānāṃ caturyujām",
+   "dadāmi te śatānyaṣṭau kiṅkiṇīkavibhūṣitān"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "19",
+  "type": "verse",
+  "line_ids": [
+   "01.052.19a",
+   "01.052.19b"
+  ],
+  "lines_deva": [
+   "हयानां देशजातानां कुलजानां महौजसाम्",
+   "सहस्रमेकं दश च ददामि तव सुव्रत"
+  ],
+  "lines_iast": [
+   "hayānāṃ deśajātānāṃ kulajānāṃ mahaujasām",
+   "sahasramekaṃ daśa ca dadāmi tava suvrata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "20",
+  "type": "verse",
+  "line_ids": [
+   "01.052.20a",
+   "01.052.20b"
+  ],
+  "lines_deva": [
+   "नानावर्णविभक्तानां वयःस्थानां तथैव च",
+   "ददाम्येकां गवां कोटिं शबला दीयतां मम"
+  ],
+  "lines_iast": [
+   "nānāvarṇavibhaktānāṃ vayaḥsthānāṃ tathaiva ca",
+   "dadāmyekāṃ gavāṃ koṭiṃ śabalā dīyatāṃ mama"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "21",
+  "type": "verse",
+  "line_ids": [
+   "01.052.21a",
+   "01.052.21b"
+  ],
+  "lines_deva": [
+   "एवमुक्तस्तु भगवान् विश्वामित्रेण धीमता",
+   "न दास्यामीति शबलां प्राह राजन् कथं चन"
+  ],
+  "lines_iast": [
+   "evamuktastu bhagavān viśvāmitreṇa dhīmatā",
+   "na dāsyāmīti śabalāṃ prāha rājan kathaṃ cana"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "22",
+  "type": "verse",
+  "line_ids": [
+   "01.052.22a",
+   "01.052.22b"
+  ],
+  "lines_deva": [
+   "एतदेव हि मे रत्नमेतदेव हि मे धनम्",
+   "एतदेव हि सर्वस्वमेतदेव हि जीवितम्"
+  ],
+  "lines_iast": [
+   "etadeva hi me ratnametadeva hi me dhanam",
+   "etadeva hi sarvasvametadeva hi jīvitam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "23",
+  "type": "verse",
+  "line_ids": [
+   "01.052.23a",
+   "01.052.23b"
+  ],
+  "lines_deva": [
+   "दर्शश्च पूर्णमासश्च यज्ञाश्चैवाप्तदक्षिणाः",
+   "एतदेव हि मे राजन् विविधाश्च क्रियास्तथा"
+  ],
+  "lines_iast": [
+   "darśaśca pūrṇamāsaśca yajñāścaivāptadakṣiṇāḥ",
+   "etadeva hi me rājan vividhāśca kriyāstathā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "24",
+  "type": "verse",
+  "line_ids": [
+   "01.052.24a",
+   "01.052.24b"
+  ],
+  "lines_deva": [
+   "अदोमूलाः क्रियाः सर्वा मम राजन्न संशयः",
+   "बहूनां किं प्रलापेन न दास्ये कामदोहिनीम्"
+  ],
+  "lines_iast": [
+   "adomūlāḥ kriyāḥ sarvā mama rājanna saṃśayaḥ",
+   "bahūnāṃ kiṃ pralāpena na dāsye kāmadohinīm"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ }
+]

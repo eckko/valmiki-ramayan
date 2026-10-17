@@ -1,0 +1,120 @@
+{
+ "units": [
+  {"n": "1", "verdict": "ok", "issues": []},
+  {"n": "2", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "āpṛṣṭvā", "problem": "Gerund in -tvā after a prefix (ā-) is an epic irregularity; the classical form is āpṛcchya. The gram label is right but the reader should be told the form is non-standard, not a typo.", "fix": "append note", "severity": "minor",
+    "patch": {"n": "2", "op": "append_note", "text": "'āpṛṣṭvā' is the epic gerund in -tvā despite the prefix (classical form would be āpṛcchya); kept as printed, not flagged."}}
+  ]},
+  {"n": "3", "verdict": "ok", "issues": []},
+  {"n": "4", "verdict": "ok", "issues": []},
+  {"n": "5", "verdict": "ok", "issues": []},
+  {"n": "6", "verdict": "fix", "issues": [
+   {"field": "english", "where": "give me my bark garment", "problem": "'dīyatāṃ valkalaṃ mama' is passive imperative 'let my bark garment be given'; the recipient 'me' is not in the text.", "fix": "and let my bark garment be given", "severity": "minor",
+    "patch": {"n": "6", "op": "replace", "field": "english", "old": "and give me my bark garment", "new": "and let my bark garment be given"}},
+   {"field": "hindi", "where": "मेरा वल्कल मुझे दो", "problem": "'मुझे' (to me) is added; the text has only 'mama' (my).", "fix": "मेरा वल्कल दो", "severity": "minor",
+    "patch": {"n": "6", "op": "replace", "field": "hindi", "old": "मेरा वल्कल मुझे दो", "new": "मेरा वल्कल दो"}}
+  ]},
+  {"n": "7", "verdict": "ok", "issues": []},
+  {"n": "8", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "जितेन्द्रिय वह मुनि", "problem": "'मुनि' is added; the subject is only 'saḥ' (he).", "fix": "जितेन्द्रिय वह", "severity": "minor",
+    "patch": {"n": "8", "op": "replace", "field": "hindi", "old": "जितेन्द्रिय वह मुनि उस", "new": "जितेन्द्रिय वह उस"}}
+  ]},
+  {"n": "9", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "भगवान् मुनि ने", "problem": "'मुनि' is added; the text has only 'bhagavān'.", "fix": "भगवान् ने", "severity": "minor",
+    "patch": {"n": "9", "op": "replace", "field": "hindi", "old": "भगवान् मुनि ने", "new": "भगवान् ने"}}
+  ]},
+  {"n": "10", "verdict": "fix", "issues": [
+   {"field": "english", "where": "killed the male", "problem": "'ekam' (one [of the pair]) is dropped; 'ekam pumāṃsam' = 'one, the male'.", "fix": "killed one, the male, while he looked on", "severity": "minor",
+    "patch": {"n": "10", "op": "replace", "field": "english", "old": "killed the male while he looked on", "new": "killed one, the male, while he looked on"}},
+   {"field": "hindi", "where": "एक निषाद", "problem": "'एक' belongs to 'ekam' (one of the pair, the male), not to the Niṣāda; the Hindi moves it to the wrong noun.", "fix": "उस जोड़े में से एक को, नर पक्षी को, ... निषाद ने", "severity": "minor",
+    "patch": {"n": "10", "op": "replace", "field": "hindi", "old": "उस जोड़े में से नर पक्षी को, पाप-निश्चय वाले, वैर के घर एक निषाद ने", "new": "उस जोड़े में से एक को, नर पक्षी को, पाप-निश्चय वाले, वैर के घर निषाद ने"}}
+  ]},
+  {"n": "11", "verdict": "ok", "issues": []},
+  {"n": "12", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "के हृदय में", "problem": "'हृदय में' (in the heart) is added; the text has only the genitive 'ṛṣeḥ ... tasya'.", "fix": "उस धर्मात्मा ऋषि को करुणा उत्पन्न हुई", "severity": "minor",
+    "patch": {"n": "12", "op": "replace", "field": "hindi", "old": "उस धर्मात्मा ऋषि के हृदय में करुणा उत्पन्न हुई", "new": "उस धर्मात्मा ऋषि को करुणा उत्पन्न हुई"}}
+  ]},
+  {"n": "13", "verdict": "ok", "issues": []},
+  {"n": "14", "verdict": "fix", "issues": [
+   {"field": "split", "where": "śāśvatīṃ", "problem": "The edition prints 'śāśvatīṃ' (f. acc. sg.), but the draft silently changes the word to 'śāśvatīḥ' (acc. pl.) with no text_flags entry. That is the well-known variant 'śāśvatīḥ samāḥ', not what this witness reads. The printed form is grammatical: śāśvatīm qualifies pratiṣṭhām ('everlasting repose'), and samāḥ is an accusative of duration ('for years'). Either keep the printed reading in `words` or add a text_flags entry; a silent change is not allowed.", "fix": "w = śāśvatīm, gram = f. acc. sg., gloss = everlasting", "severity": "error",
+    "patch": {"n": "14", "op": "word", "match_w": "śāśvatīḥ", "field": "w", "value": "śāśvatīm"}},
+   {"field": "gram", "where": "śāśvatīm", "problem": "Follows from the printed reading: singular, agreeing with pratiṣṭhām.", "fix": "f. acc. sg.", "severity": "minor",
+    "patch": {"n": "14", "op": "word", "match_w": "śāśvatīm", "field": "gram", "value": "f. acc. sg."}},
+   {"field": "english", "where": "may you never attain repose for everlasting years", "problem": "Renders the unprinted 'śāśvatīḥ samāḥ'. With the printed text: 'everlasting' goes with 'repose', 'samāḥ' = 'for years'.", "fix": "may you not attain everlasting repose for years", "severity": "minor",
+    "patch": {"n": "14", "op": "replace", "field": "english", "old": "may you never attain repose for everlasting years", "new": "may you not attain everlasting repose for years"}},
+   {"field": "hindi", "where": "अनन्त वर्षों तक प्रतिष्ठा", "problem": "Same: 'शाश्वत' must qualify 'प्रतिष्ठा', not the years.", "fix": "तुम वर्षों तक शाश्वत प्रतिष्ठा न पाओ", "severity": "minor",
+    "patch": {"n": "14", "op": "replace", "field": "hindi", "old": "तुम अनन्त वर्षों तक प्रतिष्ठा न पाओ", "new": "तुम वर्षों तक शाश्वत प्रतिष्ठा न पाओ"}},
+   {"field": "notes", "where": "reading", "problem": "The note should record the printed reading and the construal, so a later reader does not 'correct' it to the variant.", "fix": "append note", "severity": "minor",
+    "patch": {"n": "14", "op": "append_note", "text": "The edition prints 'śāśvatīṃ' (acc. sg.), kept as printed and construed with pratiṣṭhām; 'samāḥ' is accusative of duration. The variant 'śāśvatīḥ samāḥ' (acc. pl.) is not this edition's reading."}}
+  ]},
+  {"n": "15", "verdict": "fix", "issues": [
+   {"field": "gloss", "where": "cintā", "problem": "'cintā' here is anxious thought/worry (it is what makes him ask 'what have I uttered?'), not a neutral 'thought'.", "fix": "anxious thought, worry", "severity": "minor",
+    "patch": {"n": "15", "op": "word", "match_w": "cintā", "field": "gloss", "value": "anxious thought, worry"}},
+   {"field": "english", "where": "a thought arose", "problem": "Too weak for 'cintā'; Hindi 'चिन्ता' has it right.", "fix": "an anxious thought arose in his heart", "severity": "minor",
+    "patch": {"n": "15", "op": "replace", "field": "english", "old": "a thought arose in his heart", "new": "an anxious thought arose in his heart"}}
+  ]},
+  {"n": "16", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "mahā-prājñaḥ", "problem": "mahā + prājña (adjective 'wise') = 'very wise' is a karmadhāraya, not a bahuvrīhi (contrast mahā-tejāḥ, mahā-ātmanā, which are bahuvrīhis on a noun).", "fix": "m. nom. sg. (karmadhāraya)", "severity": "minor",
+    "patch": {"n": "16", "op": "word", "match_w": "mahā-prājñaḥ", "field": "gram", "value": "m. nom. sg. (karmadhāraya)"}},
+   {"field": "hindi", "where": "मतिमान् मुनि ने", "problem": "'मुनि' is added in the first half; the text has 'saḥ' (he). 'मुनिश्रेष्ठ' in the second half already renders munipuṅgavaḥ.", "fix": "उस महाप्राज्ञ, मतिमान् ने", "severity": "minor",
+    "patch": {"n": "16", "op": "replace", "field": "hindi", "old": "उस महाप्राज्ञ, मतिमान् मुनि ने", "new": "उस महाप्राज्ञ, मतिमान् ने"}}
+  ]},
+  {"n": "17", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "akṣara-samaḥ", "problem": "'equal in syllables' (akṣaraiḥ samaḥ) is an instrumental tat-puruṣa, not a bahuvrīhi; the bahuvrīhi is sama-akṣara (units 39, 41).", "fix": "m. nom. sg. (tat-puruṣa, inst.)", "severity": "minor",
+    "patch": {"n": "17", "op": "word", "match_w": "akṣara-samaḥ", "field": "gram", "value": "m. nom. sg. (tat-puruṣa, inst.)"}},
+   {"field": "gloss", "where": "tantrī-laya-samanvitaḥ", "problem": "samanvita = 'endowed with, accompanied by'; 'fit for' is an interpretation. Hindi 'से युक्त' is right.", "fix": "endowed with lute-string and rhythm", "severity": "minor",
+    "patch": {"n": "17", "op": "word", "match_w": "tantrī-laya-samanvitaḥ", "field": "gloss", "value": "endowed with lute-string and rhythm"}},
+   {"field": "english", "where": "fit for lute-string and rhythm", "problem": "Same as the gloss.", "fix": "endowed with lute-string and rhythm", "severity": "minor",
+    "patch": {"n": "17", "op": "replace", "field": "english", "old": "fit for lute-string and rhythm", "new": "endowed with lute-string and rhythm"}}
+  ]},
+  {"n": "18", "verdict": "ok", "issues": []},
+  {"n": "19", "verdict": "ok", "issues": []},
+  {"n": "20", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "guroḥ", "problem": "'guroḥ' is attached to 'śiṣyaḥ' (the teacher's disciple) without comment, but it can equally go with 'pṛṣṭhataḥ ... anujagāma' (followed behind the teacher), which is at least as natural. The choice should be recorded.", "fix": "append note", "severity": "minor",
+    "patch": {"n": "20", "op": "append_note", "text": "'guroḥ' is taken with 'śiṣyaḥ' (the teacher's disciple); it can equally be construed with 'pṛṣṭhataḥ' (followed behind the teacher)."}}
+  ]},
+  {"n": "21", "verdict": "fix", "issues": [
+   {"field": "english", "where": "yet remained absorbed", "problem": "'yet' adds a contrast the text does not state; the Sanskrit simply coordinates 'kathāś cānyāś cakāra' and 'dhyānam āsthitaḥ' with 'ca'.", "fix": "sat down and, absorbed in meditation, talked of other things as well", "severity": "minor",
+    "patch": {"n": "21", "op": "replace", "field": "english", "old": "sat down and talked of other things, yet remained absorbed in meditation", "new": "sat down and, absorbed in meditation, talked of other things as well"}},
+   {"field": "hindi", "where": "करते हुए भी ध्यान में ही", "problem": "'भी ... ही' adds the same concessive emphasis.", "fix": "बैठ गए और ध्यान में लगे हुए अन्य कथाएँ भी करते रहे", "severity": "minor",
+    "patch": {"n": "21", "op": "replace", "field": "hindi", "old": "बैठ गए और अन्य कथाएँ करते हुए भी ध्यान में ही लगे रहे", "new": "बैठ गए और ध्यान में लगे हुए अन्य कथाएँ भी करते रहे"}}
+  ]},
+  {"n": "22", "verdict": "ok", "issues": []},
+  {"n": "23", "verdict": "ok", "issues": []},
+  {"n": "24", "verdict": "ok", "issues": []},
+  {"n": "25", "verdict": "ok", "issues": []},
+  {"n": "26", "verdict": "fix", "issues": [
+   {"field": "english", "where": "Even when ... seated there", "problem": "'Even' adds a concession not in the text, and 'tadā' (then) is rendered as 'there'.", "fix": "When the grandfather of the worlds himself was then seated", "severity": "minor",
+    "patch": {"n": "26", "op": "replace", "field": "english", "old": "Even when the grandfather of the worlds himself was seated there", "new": "When the grandfather of the worlds himself was then seated"}},
+   {"field": "hindi", "where": "वहाँ बैठ जाने पर भी", "problem": "Same: 'भी' is added and 'tadā' becomes 'वहाँ'.", "fix": "साक्षात् लोक-पितामह के तब बैठ जाने पर", "severity": "minor",
+    "patch": {"n": "26", "op": "replace", "field": "hindi", "old": "साक्षात् लोक-पितामह के वहाँ बैठ जाने पर भी", "new": "साक्षात् लोक-पितामह के तब बैठ जाने पर"}}
+  ]},
+  {"n": "27", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "बड़ा अनर्थ", "problem": "'बड़ा' (great) is added; 'kaṣṭam' is just 'a grievous thing'.", "fix": "अनर्थ किया", "severity": "minor",
+    "patch": {"n": "27", "op": "replace", "field": "hindi", "old": "बड़ा अनर्थ किया", "new": "अनर्थ किया"}}
+  ]},
+  {"n": "28", "verdict": "ok", "issues": []},
+  {"n": "29", "verdict": "ok", "issues": []},
+  {"n": "30", "verdict": "ok", "issues": []},
+  {"n": "31", "verdict": "ok", "issues": []},
+  {"n": "32", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "commentators take it as standing for 'saumitreḥ'", "problem": "Imports an unverified claim about commentators (the layer notes say not to import commentary). The observation that the form is irregular and the sense needs 'with Saumitri' stands on its own.", "fix": "replace the note without the commentator claim", "severity": "minor",
+    "patch": {"n": "32", "op": "set", "field": "notes", "value": "'saumitre' is the edition's reading; the form is irregular after 'saha' (expected instrumental) and alongside the genitives; the sense requires 'with Saumitri'. Not flagged as a typo. Sentence continues into verse 33."}}
+  ]},
+  {"n": "33", "verdict": "ok", "issues": []},
+  {"n": "34", "verdict": "fix", "issues": [
+   {"field": "text_flags", "where": "rāma kathāṃ", "problem": "The draft reads the two printed tokens 'rāma' and 'kathāṃ' as one compound and gives 'rāma-' a stem-only gram, but records this only in notes. Under the witness rule a split that does not match the printed text should carry a text_flags entry (src 'rāma', suggest 'rāmakathāṃ', why: two tokens printed apart where a compound is required; a vocative 'O Rāma' makes no sense). 'kā cid' printed apart is normal and needs no flag.", "fix": "add text_flags entry {\"src\":\"rāma\",\"suggest\":\"rāmakathāṃ\",\"why\":\"printed as two tokens; read as the compound rāma-kathām, since a vocative makes no sense here\"}", "severity": "minor"}
+  ]},
+  {"n": "35", "verdict": "ok", "issues": []},
+  {"n": "36", "verdict": "ok", "issues": []},
+  {"n": "37", "verdict": "ok", "issues": []},
+  {"n": "38", "verdict": "ok", "issues": []},
+  {"n": "39", "verdict": "ok", "issues": []},
+  {"n": "40", "verdict": "ok", "issues": []},
+  {"n": "41", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "11-syllable pāda", "problem": "Wrong count stated as fact. Each pāda has 12 syllables: u-dā-ra-vṛt-tār-tha-pa-dair-ma-no-ra-mais (12), ta-dā-sya-rā-ma-sya-ca-kā-ra-kīr-ti-mān (12), sa-mā-kṣa-raiḥ-ślo-ka-śa-tair-ya-śas-vi-no (12), ya-śas-ka-raṃ-kā-vya-mu-dā-ra-dhīr-mu-niḥ (12). This is a jagatī-class metre (vaṃśastha/indravaṃśā type), not an 11-syllable triṣṭubh.", "fix": "Closing verse in a longer metre with 12-syllable pādas (jagatī class).", "severity": "error",
+    "patch": {"n": "41", "op": "replace", "field": "notes", "old": "Closing verse in a longer (11-syllable pāda) metre.", "new": "Closing verse in a longer metre with 12-syllable pādas (jagatī class)."}}
+  ]}
+ ],
+ "summary": "41 units checked; tokens match the printed text throughout and most splits, glosses and case labels are sound. 2 errors: unit 14 silently replaces the printed 'śāśvatīṃ' with the variant 'śāśvatīḥ' (no text_flags; the printed singular is grammatical with pratiṣṭhām), and unit 41's note miscounts the metre as 11-syllable pādas (they are 12). 25 minor issues: small additions in the translations (unit 6 'me', 8/9/16 added 'मुनि', 12 'हृदय में', 21 'yet/भी...ही', 26 'Even' and tadā rendered as 'there', 27 'बड़ा'), 'ekam' dropped/misplaced in unit 10, weak gloss of cintā (15), compound-type labels for mahā-prājña (16) and akṣara-sama (17), 'samanvita' glossed 'fit for' (17), an unrecorded alternative construal of guroḥ (20), an imported commentator claim in unit 32's note, a missing text_flags entry for 'rāma kathāṃ' (34), and a note on the epic gerund āpṛṣṭvā (2). Confidence levels are honest (3 and 32 at medium are right). No regrouping suggested: the edition's verse grouping is kept, and the sentence running across 32-33 is already noted in both units."
+}

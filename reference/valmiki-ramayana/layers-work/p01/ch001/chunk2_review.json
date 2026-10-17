@@ -1,0 +1,94 @@
+{
+ "units": [
+  {"n": "41", "verdict": "fix", "issues": [
+   {"field": "split", "where": "an-ādṛtya", "problem": "The negative prefix is hyphenated here but nowhere else in the chunk (anaghaḥ 70, arogaḥ 71, avidhavāḥ 72 are written solid). Inconsistent convention.", "fix": "anādṛtya", "severity": "minor",
+    "patch": {"n": "41", "op": "word", "match_w": "an-ādṛtya", "field": "w", "value": "anādṛtya"}}
+  ]},
+  {"n": "42", "verdict": "ok", "issues": []},
+  {"n": "43", "verdict": "ok", "issues": []},
+  {"n": "44", "verdict": "fix", "issues": [
+   {"field": "english", "where": "a rākṣasa (demon)", "problem": "Bracketed gloss inside the translation; rākṣasa is left untranslated and unbracketed everywhere else in the chunk (61, 66).", "fix": "a rākṣasa", "severity": "minor",
+    "patch": {"n": "44", "op": "replace", "field": "english", "old": "a rākṣasa (demon)", "new": "a rākṣasa"}}
+  ]},
+  {"n": "45", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "उस राक्षस को", "problem": "The verse has only taṃ 'him'; 'राक्षस' is carried over from 44 and is an addition.", "fix": "उसको", "severity": "minor",
+    "patch": {"n": "45", "op": "replace", "field": "hindi", "old": "उस राक्षस को", "new": "उसको"}}
+  ]},
+  {"n": "46", "verdict": "ok", "issues": []},
+  {"n": "47", "verdict": "ok", "issues": []},
+  {"n": "48", "verdict": "ok", "issues": []},
+  {"n": "49", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "duḥkhitena", "problem": "There is no primary root √duḥkh; duḥkhita is the -ita participle of the denominative duḥkhaya- (or duḥkha + ita).", "fix": "m. inst. sg., ppp denom. duḥkhaya- (duḥkha + ita)", "severity": "minor",
+    "patch": {"n": "49", "op": "word", "match_w": "duḥkhitena", "field": "gram", "value": "m. inst. sg., ppp denom. duḥkhaya- (duḥkha + ita)"}}
+  ]},
+  {"n": "50", "verdict": "fix", "issues": [
+   {"field": "english", "where": "; but Sugrīva", "problem": "ca is 'and'; 'but' adds a contrast the text does not mark.", "fix": "; and Sugrīva", "severity": "minor",
+    "patch": {"n": "50", "op": "replace", "field": "english", "old": "; but Sugrīva", "new": "; and Sugrīva"}},
+   {"field": "hindi", "where": "किन्तु सुग्रीव", "problem": "Same: ca rendered as 'किन्तु'.", "fix": "और सुग्रीव", "severity": "minor",
+    "patch": {"n": "50", "op": "replace", "field": "hindi", "old": "किन्तु सुग्रीव", "new": "और सुग्रीव"}}
+  ]},
+  {"n": "51", "verdict": "fix", "issues": [
+   {"field": "gloss", "where": "uttamam", "problem": "uttama means 'highest, foremost, excellent'; 'huge' is an interpretation (reflected in English 'huge' and Hindi 'विशाल'). The note admits it, but the gloss should give the dictionary sense first.", "fix": "foremost, excellent (here taken as huge)", "severity": "minor",
+    "patch": {"n": "51", "op": "word", "match_w": "uttamam", "field": "gloss", "value": "foremost, excellent (here taken as huge)"}}
+  ]},
+  {"n": "52", "verdict": "ok", "issues": []},
+  {"n": "53", "verdict": "ok", "issues": []},
+  {"n": "54", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "hema-piṅgalaḥ", "problem": "'tawny as gold' is a comparison compound (upamāna-pūrvapada karmadhāraya), not a tat-puruṣa.", "fix": "m. nom. sg., karmadhāraya (upamāna)", "severity": "minor",
+    "patch": {"n": "54", "op": "word", "match_w": "hema-piṅgalaḥ", "field": "gram", "value": "m. nom. sg., karmadhāraya (upamāna)"}}
+  ]},
+  {"n": "55", "verdict": "ok", "issues": []},
+  {"n": "56", "verdict": "fix", "issues": [
+   {"field": "english", "where": "that bull among monkeys", "problem": "No demonstrative in the text (sa ca ... vānararṣabhaḥ); 'that' is added.", "fix": "the bull among monkeys", "severity": "minor",
+    "patch": {"n": "56", "op": "replace", "field": "english", "old": "that bull among monkeys", "new": "the bull among monkeys"}},
+   {"field": "hindi", "where": "उस वानरश्रेष्ठ ने", "problem": "Same added demonstrative 'उस'.", "fix": "वानरश्रेष्ठ ने", "severity": "minor",
+    "patch": {"n": "56", "op": "replace", "field": "hindi", "old": "उस वानरश्रेष्ठ ने", "new": "वानरश्रेष्ठ ने"}}
+  ]},
+  {"n": "57", "verdict": "ok", "issues": []},
+  {"n": "58", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "ध्यानमग्न", "problem": "dhyāyantīm is 'thinking, brooding' (English 'brooding'); 'ध्यानमग्न' suggests absorbed in meditation, a different shade.", "fix": "चिन्तामग्न", "severity": "minor",
+    "patch": {"n": "58", "op": "replace", "field": "hindi", "old": "ध्यानमग्न", "new": "चिन्तामग्न"}}
+  ]},
+  {"n": "59", "verdict": "ok", "issues": []},
+  {"n": "60", "verdict": "fix", "issues": [
+   {"field": "english", "where": "he submitted to capture", "problem": "grahaṇaṃ samupāgamat = 'came to / underwent capture'. 'submitted' adds willingness, which is only stated in 61 (yadṛcchayā), not here. The Hindi passive is fine.", "fix": "he underwent capture", "severity": "minor",
+    "patch": {"n": "60", "op": "replace", "field": "english", "old": "he submitted to capture", "new": "he underwent capture"}}
+  ]},
+  {"n": "61", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "जानकर भी", "problem": "'भी' makes the clause concessive ('even though knowing'); the Sanskrit has plain jñātvā with no api. Unsupported addition that changes the logic; the English correctly has none.", "fix": "जानकर", "severity": "error",
+    "patch": {"n": "61", "op": "replace", "field": "hindi", "old": "मुक्त जानकर भी, वह वीर", "new": "मुक्त जानकर, वह वीर"}}
+  ]},
+  {"n": "62", "verdict": "ok", "issues": []},
+  {"n": "63", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "pradakṣiṇam", "problem": "Gloss treats it as the noun 'circumambulation' but gram gives m. acc. sg.; the noun is n. If m., it is the adjective agreeing with rāmam ('having made Rāma pradakṣiṇa'). Make gloss and gram agree.", "fix": "n. acc. sg. (noun; or m. adj. with rāmam)", "severity": "minor",
+    "patch": {"n": "63", "op": "word", "match_w": "pradakṣiṇam", "field": "gram", "value": "n. acc. sg. (noun; or m. acc. sg. adj. with rāmam)"}}
+  ]},
+  {"n": "64", "verdict": "ok", "issues": []},
+  {"n": "65", "verdict": "ok", "issues": []},
+  {"n": "66", "verdict": "ok", "issues": []},
+  {"n": "67", "verdict": "ok", "issues": []},
+  {"n": "68", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "sarva-daivataiḥ", "problem": "daivata 'deity' is neuter (daivatam); inst. pl. -aiḥ is the same but the gender label should be n.", "fix": "n. inst. pl., karmadhāraya", "severity": "minor",
+    "patch": {"n": "68", "op": "word", "match_w": "sarva-daivataiḥ", "field": "gram", "value": "n. inst. pl., karmadhāraya"}}
+  ]},
+  {"n": "69", "verdict": "ok", "issues": []},
+  {"n": "70", "verdict": "ok", "issues": []},
+  {"n": "71", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "durbhikṣa-bhaya-varjitaḥ", "problem": "The draft reads durbhikṣa-bhaya as a dvandva ('famine and fear'); the equally natural reading is a tat-puruṣa 'fear of famine' (free from the fear of famine). The alternative should be recorded, and the choice of past tense 'were/थे' for a verbless verse between past narration (70) and future predictions (72-76) is a decision that should be stated.", "fix": "append note", "severity": "minor",
+    "patch": {"n": "71", "op": "append_note", "text": "durbhikṣa-bhaya-varjitaḥ may also be read with durbhikṣa-bhaya as a tat-puruṣa: 'free from the fear of famine'. The verse has no verb; 'were' is supplied though 72-76 are future."}},
+   {"field": "notes", "where": "nirāyamo arogaśca", "problem": "This e-text writes avagraha as an apostrophe elsewhere (so'bhyagacchat 46, so'bhigamya 63, loke'smin 75, śūdro'pi 79), so o + a without avagraha here is more likely a missing avagraha ('rogaś) than genuine hiatus; the note states hiatus as fact.", "fix": "append note", "severity": "minor",
+    "patch": {"n": "71", "op": "append_note", "text": "Since this e-text marks avagraha with an apostrophe elsewhere, 'arogaś' here may be a missing avagraha ('rogaś) rather than a true hiatus; left as printed."}}
+  ]},
+  {"n": "72", "verdict": "ok", "issues": []},
+  {"n": "73", "verdict": "ok", "issues": []},
+  {"n": "74", "verdict": "ok", "issues": []},
+  {"n": "75", "verdict": "ok", "issues": []},
+  {"n": "76", "verdict": "ok", "issues": []},
+  {"n": "77", "verdict": "ok", "issues": []},
+  {"n": "78", "verdict": "ok", "issues": []},
+  {"n": "79", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "īyāt (all four occurrences)", "problem": "The class-2 optative of √i is iyāt (short i); the long-vowel form īyāt is from the by-form √ī 'go, attain'. Label the root as √ī (= √i). No machine patch because the same w occurs four times in the unit.", "fix": "3 sg. opt. √ī (by-form of √i)", "severity": "minor"}
+  ]}
+ ],
+ "summary": "Chunk 2 (units 41-79) is a careful draft: every printed token is accounted for, sandhi is undone correctly, the three text_flags (61 unmuham>unmuktam, 71 nirāyamo>nirāmayo, 73 cāgrijaṃ>cāgnijaṃ) are real typos with correct suggestions, the two stray-mark flags in 79 are right, and medium confidence is used honestly where readings are inferred (48 śaṃsat, 61, 71, 73, 79). No invented variants; the edition's 3-line units (46, 49) are kept and no regrouping is suggested. Issues found: 1 error (61 Hindi adds a concessive 'भी' not in the text) and 17 minor: small unsupported additions in translations (45 'राक्षस', 50 'but/किन्तु' for ca, 56 'that/उस', 60 'submitted'), a bracketed gloss in English (44), a shade of meaning (58 ध्यानमग्न), one interpretive gloss (51 uttamam 'huge'), five grammar-label corrections (49 root, 54 compound type, 63 gender/function mismatch, 68 gender, 79 root), one split-convention inconsistency (41), and two notes to add in 71 (alternative compound reading and tense; probable missing avagraha). All but the 79 gram issue carry machine-applicable patches."
+}

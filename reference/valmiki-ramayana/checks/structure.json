@@ -1,0 +1,108 @@
+{
+ "parts": {
+  "01": {
+   "chapters": 76,
+   "highest_chapter": 76,
+   "chapter_gaps": [],
+   "verses": 1941,
+   "lines": 3943,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": true,
+   "short_chapters": [],
+   "last_chapter": "076",
+   "last_line": "अतीव रामः शुशुभेऽतिकामया॑ विभुः श्रिया विष्णुरिवामरेश्वरः"
+  },
+  "02": {
+   "chapters": 111,
+   "highest_chapter": 111,
+   "chapter_gaps": [],
+   "verses": 3160,
+   "lines": 6418,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": true,
+   "short_chapters": [],
+   "last_chapter": "111",
+   "last_line": "वनं सभार्यः प्रविवेश राघवः॑ सलक्ष्मणः सूर्य इवाभ्रमण्डलम्"
+  },
+  "03": {
+   "chapters": 71,
+   "highest_chapter": 71,
+   "chapter_gaps": [],
+   "verses": 2060,
+   "lines": 4211,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": true,
+   "short_chapters": [],
+   "last_chapter": "071",
+   "last_line": "ददर्श पम्पां शुभदर्श काननाम्॑ अनेकनानाविधपक्षिसङ्कुलाम्"
+  },
+  "04": {
+   "chapters": 66,
+   "highest_chapter": 66,
+   "chapter_gaps": [],
+   "verses": 1987,
+   "lines": 4018,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": true,
+   "short_chapters": [],
+   "last_chapter": "066",
+   "last_line": "मनः समाधाय महानुभावो॑ जगाम लङ्कां मनसा मनस्वी"
+  },
+  "05": {
+   "chapters": 66,
+   "highest_chapter": 66,
+   "chapter_gaps": [],
+   "verses": 2488,
+   "lines": 5044,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": true,
+   "short_chapters": [],
+   "last_chapter": "066",
+   "last_line": "जगाम शान्तिं मम मैथिलात्मजा॑ तवापि शोकेन तथाभिपीडिता"
+  },
+  "06": {
+   "chapters": 116,
+   "highest_chapter": 116,
+   "chapter_gaps": [],
+   "verses": 4436,
+   "lines": 8980,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": true,
+   "short_chapters": [],
+   "last_chapter": "116",
+   "last_line": "दशवर्षसहस्राणि रामो राज्यमकारयत्"
+  },
+  "07": {
+   "chapters": 100,
+   "highest_chapter": 100,
+   "chapter_gaps": [],
+   "verses": 2689,
+   "lines": 5440,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": true,
+   "short_chapters": [],
+   "last_chapter": "100",
+   "last_line": "जगाम त्रिदशैः सार्धं हृष्टैर्हृष्टो महामतिः"
+  }
+ },
+ "flags": [
+  "part 01: TRUNCATED? last chapter 076 ends without a danda: अतीव रामः शुशुभेऽतिकामया॑ विभुः श्रिया विष्णुरिवाम",
+  "part 02: TRUNCATED? last chapter 111 ends without a danda: वनं सभार्यः प्रविवेश राघवः॑ सलक्ष्मणः सूर्य इवाभ्र",
+  "part 03: TRUNCATED? last chapter 071 ends without a danda: ददर्श पम्पां शुभदर्श काननाम्॑ अनेकनानाविधपक्षिसङ्क",
+  "part 04: TRUNCATED? last chapter 066 ends without a danda: मनः समाधाय महानुभावो॑ जगाम लङ्कां मनसा मनस्वी",
+  "part 05: TRUNCATED? last chapter 066 ends without a danda: जगाम शान्तिं मम मैथिलात्मजा॑ तवापि शोकेन तथाभिपीडि",
+  "part 06: TRUNCATED? last chapter 116 ends without a danda: दशवर्षसहस्राणि रामो राज्यमकारयत्",
+  "part 07: TRUNCATED? last chapter 100 ends without a danda: जगाम त्रिदशैः सार्धं हृष्टैर्हृष्टो महामतिः"
+ ],
+ "toc_vs_text": {
+  "in_toc_not_in_text": [],
+  "in_text_not_in_toc": []
+ }
+}

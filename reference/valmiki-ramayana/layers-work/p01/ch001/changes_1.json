@@ -1,0 +1,58 @@
+[
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "कौन आत्मवान् है, किसने क्रोध को जीत लिया है, कौन बुद्धिमान् है, कौन दोष न देखने वाला है? युद्ध में क्रोध होने पर किससे देवता भी डरते हैं?",
+  "new": "कौन आत्मवान् है, किसने क्रोध को जीत लिया है, कौन बुद्धिमान् है, कौन ईर्ष्या से रहित है? युद्ध में क्रोध होने पर किससे देवता भी डरते हैं?",
+  "why": "reviewer (minor): Hindi renders anasūyakaḥ as 'one who does not see faults' while the gloss and English say 'free from envy'; the two layers should agree on one sense of asūyā."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "वाल्मीकि के इस वचन को सुनकर, तीनों लोकों को जानने वाले नारद ने \"सुनिए\" ऐसा कहकर, प्रसन्न होकर यह वाक्य कहा।",
+  "new": "और वाल्मीकि के इस वचन को सुनकर, तीनों लोकों को जानने वाले नारद ने \"सुनिए\" ऐसा कहकर, प्रसन्न होकर यह वाक्य कहा।",
+  "why": "reviewer (minor): The connective ca (śrutvā caitat) is rendered 'And' in English but dropped in Hindi."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "इक्ष्वाकु वंश में उत्पन्न, लोगों में राम नाम से प्रसिद्ध एक पुरुष है, जो नियतात्मा, महापराक्रमी, कान्तिमान्, धैर्यवान् और जितेन्द्रिय है।",
+  "new": "इक्ष्वाकु वंश में उत्पन्न, लोगों में राम नाम से प्रसिद्ध, वह नियतात्मा, महापराक्रमी, कान्तिमान्, धैर्यवान् और जितेन्द्रिय है।",
+  "why": "reviewer (error): Unsupported addition: the verse has no 'there is a man who' clause; it is a string of nominative epithets with śrutaḥ. The English does not add it either."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "वह बुद्धिमान्, नीतिमान्, वाग्मी, श्रीमान्, शत्रुओं का नाश करने वाला, चौड़े कंधों वाला, महाबाहु, शंख के समान ग्रीवा वाला और बड़ी ठोड़ी वाला है।",
+  "new": "वह बुद्धिमान्, नीतिमान्, वाग्मी, श्रीमान्, शत्रुओं का नाश करने वाला, चौड़े कंधों वाला, महाबाहु, शंख के समान ग्रीवा वाला और बड़े जबड़े वाला है।",
+  "why": "reviewer (minor): hanu is 'jaw', not 'chin' (ठोड़ी); gloss and English say 'jaws'."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "He is broad-chested, a great bowman, with collar-bones hidden in flesh, a tamer of foes, with arms reaching to his knees, a fine head, a fine forehead and a fine stride.",
+  "new": "He is broad-chested, a great bowman, with hidden collar-bones, a tamer of foes, with arms reaching to his knees, a fine head, a fine forehead and a fine stride.",
+  "why": "reviewer (minor): 'in flesh' is an explanatory addition not in gūḍha-jatruḥ (gloss: 'with hidden collar-bones'); Hindi is literal."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "उसके मरने पर वसिष्ठ आदि द्विजों द्वारा राज्य के लिए नियुक्त किए जाते हुए भी महाबली भरत ने राज्य की इच्छा नहीं की। वह वीर राम के चरणों को प्रसन्न करने के लिए वन को गया।",
+  "new": "उसके मरने पर वसिष्ठ आदि द्विजों द्वारा राज्य के लिए नियुक्त किए जाते हुए महाबली भरत ने राज्य की इच्छा नहीं की। वह वीर राम के चरणों को प्रसन्न करने के लिए वन को गया।",
+  "why": "reviewer (minor): Concessive 'भी' (even though) is added; the Sanskrit has only the participle niyujyamānaḥ, and the English does not add 'although'."
+ },
+ {
+  "n": "30",
+  "field": "notes",
+  "old": "punaḥ punaḥ 'again and again' goes with nivartayāmāsa (repeated insistence that Bharata return); asya 'his' = Rāma's own sandals.",
+  "new": "punaḥ punaḥ 'again and again' goes with nivartayāmāsa (repeated insistence that Bharata return); asya 'his' = Rāma's own sandals. asya may also be the genitive of the recipient (Bharata): 'having given the sandals to him as a trust for the kingdom'; the line does not decide.",
+  "why": "reviewer (minor): Stated as fact, but asya can equally be the genitive of the recipient (Bharata: 'gave the sandals to him as a trust for the kingdom'), which is how commentators commonly take it; the Hindi 'अपनी' silently chooses the first reading."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "That Rāvaṇa was dissuaded very many times by Mārīca: \"Rāvaṇa, enmity with him, that mighty one, is not advisable for you.\"",
+  "new": "That Rāvaṇa was dissuaded very many times by Mārīca: \"O Rāvaṇa, enmity with him, that mighty one, is not advisable for you.\"",
+  "why": "reviewer (minor): Vocative rāvaṇa is rendered 'हे रावण' in Hindi but bare 'Rāvaṇa' in English; the fixed-rendering convention (rājan = 'O king') calls for 'O Rāvaṇa'."
+ }
+]

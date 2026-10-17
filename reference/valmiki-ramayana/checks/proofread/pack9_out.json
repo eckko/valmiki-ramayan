@@ -1,0 +1,363 @@
+[
+ {
+  "id": "06.044.28a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "ततोऽन्यं वृक्षम् 'then another tree' fits the sense; not the pronoun ततोऽहम्."
+ },
+ {
+  "id": "02.102.31a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "राघवाणां is a regular genitive plural qualifying कुलधर्मम्; metre and sense fine."
+ },
+ {
+  "id": "03.019.23a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "पतितान् accusative plural agrees with तान् ... दृष्ट्वा."
+ },
+ {
+  "id": "05.032.19b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "वनौकसं accusative agrees with प्रेषितं; line-final anusvara is the edition's style."
+ },
+ {
+  "id": "07.021.5a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "अब्रवीत् तु is a normal clause; no fault in grammar or metre."
+ },
+ {
+  "id": "01.002.41a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "01.002.41b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "01.004.26a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "01.004.26b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "01.004.27a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "01.005.23a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "01.005.23b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "01.006.24a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "01.006.24b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "01.014.21a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "01.014.21b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "01.017.39a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "25-akshara line is a regular pushpitagra pada; grammar fine."
+ },
+ {
+  "id": "01.017.39b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "25-akshara line is a regular pushpitagra pada; grammar fine."
+ },
+ {
+  "id": "01.076.18a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "01.076.18b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.001.37a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.001.37b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.005.24a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.005.24b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.006.28a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.006.28b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.007.31a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.007.31b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.008.27a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.008.27b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine. Spaces inside compounds are the typed file's spacing, not a letter error."
+ },
+ {
+  "id": "02.009.46a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.009.46b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.009.47a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.009.47b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.010.41a",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "स भूमिपालो विलपन्ननाथवत्॑ स्त्रिया गृहीतो हृदयेऽतिमात्रया",
+  "why": "दृहये is not a word: aksharas of हृदये are transposed; and अतिमात्रता should be instrumental अतिमात्रया (vamshastha scans correctly with it)."
+ },
+ {
+  "id": "02.010.41b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.011.15a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.011.15b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.012.24a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.012.24b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.013.27a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.013.27b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.013.28a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.013.28b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.014.26b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.014.27a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.014.27b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.015.14a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.015.14b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.016.61a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.016.61b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.017.29a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.017.29b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.017.30a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.017.30b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.017.31a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.017.31b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ },
+ {
+  "id": "02.017.32a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine. Spaces inside compounds are the typed file's spacing, not a letter error."
+ },
+ {
+  "id": "02.017.32b",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine. Spaces inside compounds are the typed file's spacing, not a letter error."
+ },
+ {
+  "id": "02.018.39a",
+  "kind": "metre",
+  "verdict": "ok",
+  "why": "24-akshara line is a regular 12+12 vamshastha/upajati pada; grammar and sandhi fine."
+ }
+]

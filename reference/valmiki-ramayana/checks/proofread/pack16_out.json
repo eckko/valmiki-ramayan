@@ -1,0 +1,422 @@
+[
+ {
+  "id": "05.039.11b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.039.12a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.039.12b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.039.16a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.039.16b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.039.17a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.039.17b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.040.36a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.040.36b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.042.19a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.042.19b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.043.16a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.043.16b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.044.39a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.044.39b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.1a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.1c",
+  "kind": "metre",
+  "verdict": "unsure",
+  "suggest": "कुमारमक्षं प्रसमैक्षताक्षतम्",
+  "why": "The words are correct; only the pada is split across 1b/1c (1b ends with कुमारमक्षं, which with this gives the 12-akshara pada)."
+ },
+ {
+  "id": "05.045.2a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.2b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.3a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.3b",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "रथं समास्थाय ययौ स वीर्यवान्॑ महाहरिं तं प्रति नैरृतर्षभः",
+  "why": "रथ is masculine; the accusative is रथं, not रथां."
+ },
+ {
+  "id": "05.045.4a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.4b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.5a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.5b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.6a",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "विराजमानं प्रतिपूर्णवस्तुना॑ सहेमदाम्ना शशिसूर्यवर्चसा",
+  "why": "वर्वसा is no word; the instrumental of वर्चस् is वर्चसा (shining like moon and sun)."
+ },
+ {
+  "id": "05.045.6b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.7a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.7b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.8a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.8b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.9a",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "स तस्य वेगं च कपेर्महात्मनः॑ पराक्रमं चारिषु पार्थिवात्मजः",
+  "why": "Broken conjunct र्ह्त; the word is पार्थिवात्मजः (the prince)."
+ },
+ {
+  "id": "05.045.9b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.10a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.10b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.11a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.11b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.12a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.12b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.13a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.13b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.14a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.14b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.15a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.15b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.16a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.16b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.17b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.18a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.18b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.19a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.19b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.20a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.20b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.21a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.21b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24-akshara vamshastha half-verse; भुजोरुविक्षेपण घोरदर्शनः is one compound written with a space, not a typing error."
+ },
+ {
+  "id": "05.045.22a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.22b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.23a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ },
+ {
+  "id": "05.045.23b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "24 aksharas is the normal 12+12 of a vamshastha/indravajra-type half-verse; grammar and sandhi are sound."
+ }
+]

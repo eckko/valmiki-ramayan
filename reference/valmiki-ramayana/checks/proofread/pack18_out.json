@@ -1,0 +1,422 @@
+[
+ {
+  "id": "06.019.34a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.019.34b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.020.24b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.022.43a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.022.43b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.023.42a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.023.42b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.024.36a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Pushpitagra/Aupacchandasika half-verse (12+13); uneven count is the metre, not an error."
+ },
+ {
+  "id": "06.024.36b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Pushpitagra/Aupacchandasika half-verse (12+13); uneven count is the metre, not an error."
+ },
+ {
+  "id": "06.026.33a",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "इदं वचस्तत्र निगद्य माल्यवान्॑ परीक्ष्य रक्षोऽधिपतेर्मनः पुनः",
+  "why": "Malyavan is the subject of बभूव in the next line, so nominative माल्यवान् is needed; माल्यवन् drops the long vowel sign (metre unchanged)."
+ },
+ {
+  "id": "06.026.33b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.027.22a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.027.22b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.029.18a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.029.18b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Vamshastha 12+12; the space in सुवेल पृष्ठे is the typed file's compound-spacing convention, not a letter error."
+ },
+ {
+  "id": "06.033.46b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.041.35a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.041.35b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.042.37a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Pushpitagra/Aupacchandasika half-verse (12+13); uneven count is the metre, not an error."
+ },
+ {
+  "id": "06.042.37b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Pushpitagra/Aupacchandasika half-verse (12+13); uneven count is the metre, not an error."
+ },
+ {
+  "id": "06.044.37a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.044.37b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.044.38a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.044.38b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.045.42a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.045.42b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.046.51a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.048.85a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.048.85b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.048.87a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.048.87b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.050.19a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Rucira half-verse (13+13); 26 is the normal count."
+ },
+ {
+  "id": "06.050.19b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Rucira half-verse (13+13); 26 is the normal count."
+ },
+ {
+  "id": "06.051.47a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.051.47b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.052.35a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Vamshastha 12+12; जयञ्जनाधिप is regular sandhi of जय + जनाधिप."
+ },
+ {
+  "id": "06.052.35b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.053.50a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Pushpitagra/Aupacchandasika half-verse (12+13); uneven count is the metre, not an error."
+ },
+ {
+  "id": "06.053.50b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Pushpitagra 12+13; space in कपि गणभय is the file's compound-spacing convention."
+ },
+ {
+  "id": "06.054.29a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Pushpitagra/Aupacchandasika half-verse (12+13); uneven count is the metre, not an error."
+ },
+ {
+  "id": "06.054.29b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Pushpitagra/Aupacchandasika half-verse (12+13); uneven count is the metre, not an error."
+ },
+ {
+  "id": "06.055.13a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Vamshastha 12+12; space in शूलनिर्भिन्न महाभुजान्तरः is the file's compound-spacing convention."
+ },
+ {
+  "id": "06.055.13b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.055.122a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.055.122b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.055.123a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.055.123b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.055.127a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.055.128a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.055.128b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.055.129a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.055.129b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.056.19a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Pushpitagra/Aupacchandasika half-verse (12+13); uneven count is the metre, not an error."
+ },
+ {
+  "id": "06.056.19b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Pushpitagra/Aupacchandasika half-verse (12+13); uneven count is the metre, not an error."
+ },
+ {
+  "id": "06.057.14a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.057.14b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.057.90a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.057.90b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Vamshastha 12+12; space in अतिवीर्य विक्रमः is the file's compound-spacing convention."
+ },
+ {
+  "id": "06.059.106a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ },
+ {
+  "id": "06.059.106b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Vamshastha/Indravamsha half-verse (12+12); 24 is the normal count."
+ }
+]

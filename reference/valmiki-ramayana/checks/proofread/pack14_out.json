@@ -1,0 +1,422 @@
+[
+ {
+  "id": "03.065.31a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "03.065.31b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "03.068.22a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "03.068.22b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "03.071.26a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "03.071.26b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.002.28b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.004.26a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Pushpitagra (12+13) line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.004.26b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Pushpitagra (12+13) line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.006.23b",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "प्लवगपते",
+  "why": "प्रवग is not a word; the vocative is प्लवगपते (cf. प्लवगाधिपे, प्लवङ्गमाः elsewhere), र typed for ल."
+ },
+ {
+  "id": "04.016.27a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.016.27b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.018.56a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.018.56b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.018.57a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.018.57b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.022.25a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.022.25b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.022.26a",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "मृतस्य",
+  "why": "मृतस्या is ungrammatical; genitive मृतस्य भर्तुः is needed and gives the Vamshastha pattern."
+ },
+ {
+  "id": "04.022.26b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.023.30a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.023.30b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.025.38a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.025.38b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.026.23a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.026.23b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.027.45a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.027.45b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.027.46a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.027.46b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.028.32a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.028.32b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.029.51a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.029.51b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.031.22a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.031.22b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.033.19a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.033.19b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.034.23a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Pushpitagra (12+13) line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.034.23b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Pushpitagra (12+13) line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.037.34a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.037.34b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.039.63a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.039.63b",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "सुखिता",
+  "why": "Plural निवृत्ताः ... भविष्यथ needs सुखिताः, which before भ becomes सुखिता, not सुखितो."
+ },
+ {
+  "id": "04.040.47a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Pushpitagra (12+13) line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.040.47b",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "मनुजपतिसुतां यथा लभध्वं॑ तदधिगुणं पुरुषार्थमारभध्वम्",
+  "why": "Second pada is 3 aksharas short; the next line आरभध्वम् is its broken-off tail (पुरुषार्थमारभध्वम् completes the Pushpitagra 13)."
+ },
+ {
+  "id": "04.040.47c",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "मनुजपतिसुतां यथा लभध्वं॑ तदधिगुणं पुरुषार्थमारभध्वम्",
+  "why": "A 4-akshara fragment split off from the previous line; merge it back and drop this line."
+ },
+ {
+  "id": "04.042.61a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.042.61b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.042.62a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.042.62b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.043.15a",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "कपिः",
+  "why": "Nominative subject with बभूव needs the visarga: पवनात्मजः कपिः."
+ },
+ {
+  "id": "04.043.15b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.043.16a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Pushpitagra (12+13) line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.043.16b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular Pushpitagra (12+13) line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.052.32b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.054.20",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.054.21",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.065.36a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ },
+ {
+  "id": "04.065.36b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 Vamshastha/Indravamsha line; grammar and sandhi are sound."
+ }
+]

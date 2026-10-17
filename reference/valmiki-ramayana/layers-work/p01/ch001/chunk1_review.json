@@ -1,0 +1,71 @@
+{
+ "units": [
+  {"n": "1", "verdict": "ok", "issues": []},
+  {"n": "2", "verdict": "ok", "issues": []},
+  {"n": "3", "verdict": "ok", "issues": []},
+  {"n": "4", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "कौन दोष न देखने वाला है", "problem": "Hindi renders anasūyakaḥ as 'one who does not see faults' while the gloss and English say 'free from envy'; the two layers should agree on one sense of asūyā.", "fix": "कौन ईर्ष्या से रहित है", "severity": "minor",
+    "patch": {"n": "4", "op": "replace", "field": "hindi", "old": "कौन दोष न देखने वाला है", "new": "कौन ईर्ष्या से रहित है"}}
+  ]},
+  {"n": "5", "verdict": "ok", "issues": []},
+  {"n": "6", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "start of sentence", "problem": "The connective ca (śrutvā caitat) is rendered 'And' in English but dropped in Hindi.", "fix": "और वाल्मीकि के इस वचन को सुनकर, ...", "severity": "minor",
+    "patch": {"n": "6", "op": "replace", "field": "hindi", "old": "वाल्मीकि के इस वचन को सुनकर", "new": "और वाल्मीकि के इस वचन को सुनकर"}}
+  ]},
+  {"n": "7", "verdict": "ok", "issues": []},
+  {"n": "8", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "एक पुरुष है, जो", "problem": "Unsupported addition: the verse has no 'there is a man who' clause; it is a string of nominative epithets with śrutaḥ. The English does not add it either.", "fix": "इक्ष्वाकु वंश में उत्पन्न, लोगों में राम नाम से प्रसिद्ध, वह नियतात्मा, महापराक्रमी, कान्तिमान्, धैर्यवान् और जितेन्द्रिय है।", "severity": "error",
+    "patch": {"n": "8", "op": "set", "field": "hindi", "value": "इक्ष्वाकु वंश में उत्पन्न, लोगों में राम नाम से प्रसिद्ध, वह नियतात्मा, महापराक्रमी, कान्तिमान्, धैर्यवान् और जितेन्द्रिय है।"}}
+  ]},
+  {"n": "9", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "बड़ी ठोड़ी वाला", "problem": "hanu is 'jaw', not 'chin' (ठोड़ी); gloss and English say 'jaws'.", "fix": "बड़े जबड़े वाला", "severity": "minor",
+    "patch": {"n": "9", "op": "replace", "field": "hindi", "old": "बड़ी ठोड़ी वाला", "new": "बड़े जबड़े वाला"}}
+  ]},
+  {"n": "10", "verdict": "fix", "issues": [
+   {"field": "english", "where": "with collar-bones hidden in flesh", "problem": "'in flesh' is an explanatory addition not in gūḍha-jatruḥ (gloss: 'with hidden collar-bones'); Hindi is literal.", "fix": "with hidden collar-bones", "severity": "minor",
+    "patch": {"n": "10", "op": "replace", "field": "english", "old": "with collar-bones hidden in flesh", "new": "with hidden collar-bones"}}
+  ]},
+  {"n": "11", "verdict": "ok", "issues": []},
+  {"n": "12", "verdict": "ok", "issues": []},
+  {"n": "13", "verdict": "ok", "issues": []},
+  {"n": "14", "verdict": "ok", "issues": []},
+  {"n": "15", "verdict": "ok", "issues": []},
+  {"n": "16", "verdict": "ok", "issues": []},
+  {"n": "17", "verdict": "ok", "issues": []},
+  {"n": "18", "verdict": "ok", "issues": []},
+  {"n": "19", "verdict": "ok", "issues": []},
+  {"n": "20", "verdict": "ok", "issues": []},
+  {"n": "21", "verdict": "ok", "issues": []},
+  {"n": "22", "verdict": "ok", "issues": []},
+  {"n": "23", "verdict": "ok", "issues": []},
+  {"n": "24", "verdict": "ok", "issues": []},
+  {"n": "25", "verdict": "ok", "issues": []},
+  {"n": "26", "verdict": "ok", "issues": []},
+  {"n": "27", "verdict": "ok", "issues": []},
+  {"n": "28", "verdict": "ok", "issues": []},
+  {"n": "29", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "नियुक्त किए जाते हुए भी", "problem": "Concessive 'भी' (even though) is added; the Sanskrit has only the participle niyujyamānaḥ, and the English does not add 'although'.", "fix": "नियुक्त किए जाते हुए", "severity": "minor",
+    "patch": {"n": "29", "op": "replace", "field": "hindi", "old": "नियुक्त किए जाते हुए भी", "new": "नियुक्त किए जाते हुए"}}
+  ]},
+  {"n": "30", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "asya 'his' = Rāma's own sandals", "problem": "Stated as fact, but asya can equally be the genitive of the recipient (Bharata: 'gave the sandals to him as a trust for the kingdom'), which is how commentators commonly take it; the Hindi 'अपनी' silently chooses the first reading.", "fix": "append a note that both readings of asya are possible", "severity": "minor",
+    "patch": {"n": "30", "op": "append_note", "text": "asya may also be the genitive of the recipient (Bharata): 'having given the sandals to him as a trust for the kingdom'; the line does not decide."}}
+  ]},
+  {"n": "31", "verdict": "ok", "issues": []},
+  {"n": "32", "verdict": "ok", "issues": []},
+  {"n": "33", "verdict": "fix", "issues": [
+   {"field": "text_flags", "where": "src 'agastya' / suggest 'agastyabhrātaraṃ'", "problem": "The flag pairs the single token 'agastya' with the replacement 'agastyabhrātaraṃ'; applied per token this would duplicate bhrātaraṃ. The flagged src should be the two-token span 'agastya bhrātaraṃ' (join, no space).", "fix": "text_flags[0].src = \"agastya bhrātaraṃ\", suggest = \"agastyabhrātaraṃ\"", "severity": "minor"}
+  ]},
+  {"n": "34", "verdict": "ok", "issues": []},
+  {"n": "35", "verdict": "ok", "issues": []},
+  {"n": "36", "verdict": "ok", "issues": []},
+  {"n": "37", "verdict": "ok", "issues": []},
+  {"n": "38", "verdict": "ok", "issues": []},
+  {"n": "39", "verdict": "ok", "issues": []},
+  {"n": "40", "verdict": "fix", "issues": [
+   {"field": "english", "where": "\"Rāvaṇa, enmity", "problem": "Vocative rāvaṇa is rendered 'हे रावण' in Hindi but bare 'Rāvaṇa' in English; the fixed-rendering convention (rājan = 'O king') calls for 'O Rāvaṇa'.", "fix": "\"O Rāvaṇa, enmity with him, that mighty one, is not advisable for you.\"", "severity": "minor",
+    "patch": {"n": "40", "op": "replace", "field": "english", "old": "\"Rāvaṇa, enmity", "new": "\"O Rāvaṇa, enmity"}}
+  ]}
+ ],
+ "summary": "40 units checked (tokens, splits, gloss/gram, Hindi, English, flags, notes, confidence). Splits and sandhi are correct throughout; grammar labels are sound (abhyāgaman as aorist, anavāpya with -ya after negation, tūṇī as i-stem dual, loc./gen. absolutes all right). Both text_flags (14: -jño before s-; 32: ekāgre vs ekāgro) are reasonable and marked medium. Issues: 1 error (unit 8 Hindi adds 'एक पुरुष है, जो'), 8 minor (4 Hindi/English sense mismatch for anasūyaka; 6 Hindi drops ca; 9 ठोड़ी for hanu; 10 'in flesh' added; 29 added भी; 30 note asserts asya = Rāma's where the recipient reading is at least as likely; 33 text_flag span mis-stated; 40 missing vocative 'O'). No invented Sanskrit, no imported story, names and numbers exact (fourteen thousand). No regrouping suggested: 18-19, 26-27 and 37-38 are sentence pairs but the edition's per-verse grouping is kept and the notes cross-reference correctly."
+}

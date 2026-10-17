@@ -1,0 +1,204 @@
+[
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "Line-final anusvāra in 'vihāyasaṃ' is the edition's convention for -m before a pause; not flagged.",
+  "new": "Line-final anusvāra in 'vihāyasaṃ' is the edition's convention for -m before a pause; not flagged. 'āpṛṣṭvā' is the epic gerund in -tvā despite the prefix (classical form would be āpṛcchya); kept as printed, not flagged.",
+  "why": "reviewer (minor): Gerund in -tvā after a prefix (ā-) is an epic irregularity; the classical form is āpṛcchya. The gram label is right but the reader should be told the form is non-standard, not a typo."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Set down the water-pot, dear one, and give me my bark garment; I shall bathe in this very excellent bathing-place of the Tamasā.",
+  "new": "Set down the water-pot, dear one, and let my bark garment be given; I shall bathe in this very excellent bathing-place of the Tamasā.",
+  "why": "reviewer (minor): 'dīyatāṃ valkalaṃ mama' is passive imperative 'let my bark garment be given'; the recipient 'me' is not in the text."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "तात, कलश रख दो और मेरा वल्कल मुझे दो; मैं इसी उत्तम तमसा-तीर्थ में स्नान करूँगा।",
+  "new": "तात, कलश रख दो और मेरा वल्कल दो; मैं इसी उत्तम तमसा-तीर्थ में स्नान करूँगा।",
+  "why": "reviewer (minor): 'मुझे' (to me) is added; the text has only 'mama' (my)."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "शिष्य के हाथ से वल्कल लेकर, जितेन्द्रिय वह मुनि उस विशाल वन को चारों ओर देखते हुए विचरने लगे।",
+  "new": "शिष्य के हाथ से वल्कल लेकर, जितेन्द्रिय वह उस विशाल वन को चारों ओर देखते हुए विचरने लगे।",
+  "why": "reviewer (minor): 'मुनि' is added; the subject is only 'saḥ' (he)."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "उसके समीप ही भगवान् मुनि ने वहाँ क्रौंच पक्षियों का एक जोड़ा देखा, जो विचर रहा था, कभी अलग न होने वाला और मधुर स्वर वाला था।",
+  "new": "उसके समीप ही भगवान् ने वहाँ क्रौंच पक्षियों का एक जोड़ा देखा, जो विचर रहा था, कभी अलग न होने वाला और मधुर स्वर वाला था।",
+  "why": "reviewer (minor): 'मुनि' is added; the text has only 'bhagavān'."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "From that pair, a Niṣāda, evil of intent, an abode of enmity, killed the male while he looked on.",
+  "new": "From that pair, a Niṣāda, evil of intent, an abode of enmity, killed one, the male, while he looked on.",
+  "why": "reviewer (minor): 'ekam' (one [of the pair]) is dropped; 'ekam pumāṃsam' = 'one, the male'."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "उस जोड़े में से नर पक्षी को, पाप-निश्चय वाले, वैर के घर एक निषाद ने उनके देखते-देखते मार डाला।",
+  "new": "उस जोड़े में से एक को, नर पक्षी को, पाप-निश्चय वाले, वैर के घर निषाद ने उनके देखते-देखते मार डाला।",
+  "why": "reviewer (minor): 'एक' belongs to 'ekam' (one of the pair, the male), not to the Niṣāda; the Hindi moves it to the wrong noun."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "उस पक्षी को निषाद द्वारा इस प्रकार गिराया हुआ देखकर उस धर्मात्मा ऋषि के हृदय में करुणा उत्पन्न हुई।",
+  "new": "उस पक्षी को निषाद द्वारा इस प्रकार गिराया हुआ देखकर उस धर्मात्मा ऋषि को करुणा उत्पन्न हुई।",
+  "why": "reviewer (minor): 'हृदय में' (in the heart) is added; the text has only the genitive 'ṛṣeḥ ... tasya'."
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "śāśvatīḥ",
+  "old": "śāśvatīḥ",
+  "new": "śāśvatīm",
+  "why": "reviewer (error): The edition prints 'śāśvatīṃ' (f. acc. sg.), but the draft silently changes the word to 'śāśvatīḥ' (acc. pl.) with no text_flags entry. That is the well-known variant 'śāśvatīḥ samāḥ', not what this witness reads. The printed form is grammatical: śāśvatīm qualifies pratiṣṭhām ('everlasting repose'), and samāḥ is an accusative of duration ('for years'). Either keep the printed reading in `words` or add a text_flags entry; a silent change is not allowed."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "śāśvatīm",
+  "old": "f. acc. pl.",
+  "new": "f. acc. sg.",
+  "why": "reviewer (minor): Follows from the printed reading: singular, agreeing with pratiṣṭhām."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "O Niṣāda, may you never attain repose for everlasting years, since from the pair of krauñcas you killed one, bewildered by love.",
+  "new": "O Niṣāda, may you not attain everlasting repose for years, since from the pair of krauñcas you killed one, bewildered by love.",
+  "why": "reviewer (minor): Renders the unprinted 'śāśvatīḥ samāḥ'. With the printed text: 'everlasting' goes with 'repose', 'samāḥ' = 'for years'."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "हे निषाद, तुम अनन्त वर्षों तक प्रतिष्ठा न पाओ, क्योंकि तुमने क्रौंच के जोड़े में से एक को, जो काम से मोहित था, मार डाला।",
+  "new": "हे निषाद, तुम वर्षों तक शाश्वत प्रतिष्ठा न पाओ, क्योंकि तुमने क्रौंच के जोड़े में से एक को, जो काम से मोहित था, मार डाला।",
+  "why": "reviewer (minor): Same: 'शाश्वत' must qualify 'प्रतिष्ठा', not the years."
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "pratiṣṭhā is ambiguous: firm standing / peace / fame; rendered 'repose'. 'mā ... agamaḥ' is the aorist injunctive after mā.",
+  "new": "pratiṣṭhā is ambiguous: firm standing / peace / fame; rendered 'repose'. 'mā ... agamaḥ' is the aorist injunctive after mā. The edition prints 'śāśvatīṃ' (acc. sg.), kept as printed and construed with pratiṣṭhām; 'samāḥ' is accusative of duration. The variant 'śāśvatīḥ samāḥ' (acc. pl.) is not this edition's reading.",
+  "why": "reviewer (minor): The note should record the printed reading and the construal, so a later reader does not 'correct' it to the variant."
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "cintā",
+  "old": "a thought",
+  "new": "anxious thought, worry",
+  "why": "reviewer (minor): 'cintā' here is anxious thought/worry (it is what makes him ask 'what have I uttered?'), not a neutral 'thought'."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "As he spoke thus and reflected, a thought arose in his heart: \"What is this that I have uttered, afflicted with grief for this bird?\"",
+  "new": "As he spoke thus and reflected, an anxious thought arose in his heart: \"What is this that I have uttered, afflicted with grief for this bird?\"",
+  "why": "reviewer (minor): Too weak for 'cintā'; Hindi 'चिन्ता' has it right."
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "mahā-prājñaḥ",
+  "old": "m. nom. sg. (bahuvrīhi)",
+  "new": "m. nom. sg. (karmadhāraya)",
+  "why": "reviewer (minor): mahā + prājña (adjective 'wise') = 'very wise' is a karmadhāraya, not a bahuvrīhi (contrast mahā-tejāḥ, mahā-ātmanā, which are bahuvrīhis on a noun)."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "विचार करते हुए उस महाप्राज्ञ, मतिमान् मुनि ने एक निश्चय किया, और उस मुनिश्रेष्ठ ने शिष्य से यह वचन कहा।",
+  "new": "विचार करते हुए उस महाप्राज्ञ, मतिमान् ने एक निश्चय किया, और उस मुनिश्रेष्ठ ने शिष्य से यह वचन कहा।",
+  "why": "reviewer (minor): 'मुनि' is added in the first half; the text has 'saḥ' (he). 'मुनिश्रेष्ठ' in the second half already renders munipuṅgavaḥ."
+ },
+ {
+  "n": "17",
+  "field": "word.gram",
+  "word": "akṣara-samaḥ",
+  "old": "m. nom. sg. (bahuvrīhi)",
+  "new": "m. nom. sg. (tat-puruṣa, inst.)",
+  "why": "reviewer (minor): 'equal in syllables' (akṣaraiḥ samaḥ) is an instrumental tat-puruṣa, not a bahuvrīhi; the bahuvrīhi is sama-akṣara (units 39, 41)."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "tantrī-laya-samanvitaḥ",
+  "old": "fit for lute-string and rhythm",
+  "new": "endowed with lute-string and rhythm",
+  "why": "reviewer (minor): samanvita = 'endowed with, accompanied by'; 'fit for' is an interpretation. Hindi 'से युक्त' is right."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "What has come forth from me, afflicted with grief, bound in quarters, with equal syllables, fit for lute-string and rhythm, let it be a śloka (verse), and not otherwise.",
+  "new": "What has come forth from me, afflicted with grief, bound in quarters, with equal syllables, endowed with lute-string and rhythm, let it be a śloka (verse), and not otherwise.",
+  "why": "reviewer (minor): Same as the gloss."
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "",
+  "new": "'guroḥ' is taken with 'śiṣyaḥ' (the teacher's disciple); it can equally be construed with 'pṛṣṭhataḥ' (followed behind the teacher).",
+  "why": "reviewer (minor): 'guroḥ' is attached to 'śiṣyaḥ' (the teacher's disciple) without comment, but it can equally go with 'pṛṣṭhataḥ ... anujagāma' (followed behind the teacher), which is at least as natural. The choice should be recorded."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "That knower of dharma, having entered the hermitage grounds with his disciple, sat down and talked of other things, yet remained absorbed in meditation.",
+  "new": "That knower of dharma, having entered the hermitage grounds with his disciple, sat down and, absorbed in meditation, talked of other things as well.",
+  "why": "reviewer (minor): 'yet' adds a contrast the text does not state; the Sanskrit simply coordinates 'kathāś cānyāś cakāra' and 'dhyānam āsthitaḥ' with 'ca'."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "वह धर्मज्ञ मुनि शिष्य के साथ आश्रम में प्रवेश करके बैठ गए और अन्य कथाएँ करते हुए भी ध्यान में ही लगे रहे।",
+  "new": "वह धर्मज्ञ मुनि शिष्य के साथ आश्रम में प्रवेश करके बैठ गए और ध्यान में लगे हुए अन्य कथाएँ भी करते रहे।",
+  "why": "reviewer (minor): 'भी ... ही' adds the same concessive emphasis."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "Even when the grandfather of the worlds himself was seated there, Vālmīki remained absorbed in meditation, his mind fixed on that very matter.",
+  "new": "When the grandfather of the worlds himself was then seated, Vālmīki remained absorbed in meditation, his mind fixed on that very matter.",
+  "why": "reviewer (minor): 'Even' adds a concession not in the text, and 'tadā' (then) is rendered as 'there'."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "साक्षात् लोक-पितामह के वहाँ बैठ जाने पर भी वाल्मीकि उसी विषय में लगे मन से ध्यान में डूबे रहे।",
+  "new": "साक्षात् लोक-पितामह के तब बैठ जाने पर वाल्मीकि उसी विषय में लगे मन से ध्यान में डूबे रहे।",
+  "why": "reviewer (minor): Same: 'भी' is added and 'tadā' becomes 'वहाँ'."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "वैर ठानने की बुद्धि वाले उस पापात्मा ने बड़ा अनर्थ किया, जो ऐसे मधुर स्वर वाले क्रौंच को अकारण मार डाले।",
+  "new": "वैर ठानने की बुद्धि वाले उस पापात्मा ने अनर्थ किया, जो ऐसे मधुर स्वर वाले क्रौंच को अकारण मार डाले।",
+  "why": "reviewer (minor): 'बड़ा' (great) is added; 'kaṣṭam' is just 'a grievous thing'."
+ },
+ {
+  "n": "32",
+  "field": "notes",
+  "old": "'saumitre' is the edition's reading; the form is irregular after 'saha' (expected instrumental) and alongside the genitives; commentators take it as standing for 'saumitreḥ'. Not flagged as a typo. Sentence continues into verse 33.",
+  "new": "'saumitre' is the edition's reading; the form is irregular after 'saha' (expected instrumental) and alongside the genitives; the sense requires 'with Saumitri'. Not flagged as a typo. Sentence continues into verse 33.",
+  "why": "reviewer (minor): Imports an unverified claim about commentators (the layer notes say not to import commentary). The observation that the form is irregular and the sense needs 'with Saumitri' stands on its own."
+ },
+ {
+  "n": "41",
+  "field": "notes",
+  "old": "Closing verse in a longer (11-syllable pāda) metre. The edition marks the pāda break inside the line with a raised mark (Devanagari U+0951), which came through in IAST as a combining mark on 'manoramais̭' and 'yaśasvino̭'; it is a pāda marker, not part of the word, so src is kept as printed and not flagged. 'udāravṛtta' could also mean 'noble conduct' (of Rāma); taken as metre alongside artha and pada.",
+  "new": "Closing verse in a longer metre with 12-syllable pādas (jagatī class). The edition marks the pāda break inside the line with a raised mark (Devanagari U+0951), which came through in IAST as a combining mark on 'manoramais̭' and 'yaśasvino̭'; it is a pāda marker, not part of the word, so src is kept as printed and not flagged. 'udāravṛtta' could also mean 'noble conduct' (of Rāma); taken as metre alongside artha and pada.",
+  "why": "reviewer (error): Wrong count stated as fact. Each pāda has 12 syllables: u-dā-ra-vṛt-tār-tha-pa-dair-ma-no-ra-mais (12), ta-dā-sya-rā-ma-sya-ca-kā-ra-kīr-ti-mān (12), sa-mā-kṣa-raiḥ-ślo-ka-śa-tair-ya-śas-vi-no (12), ya-śas-ka-raṃ-kā-vya-mu-dā-ra-dhīr-mu-niḥ (12). This is a jagatī-class metre (vaṃśastha/indravaṃśā type), not an 11-syllable triṣṭubh."
+ }
+]

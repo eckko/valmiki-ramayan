@@ -1,0 +1,127 @@
+[
+ {
+  "n": "41",
+  "field": "word.w",
+  "word": "an-ādṛtya",
+  "old": "an-ādṛtya",
+  "new": "anādṛtya",
+  "why": "reviewer (minor): The negative prefix is hyphenated here but nowhere else in the chunk (anaghaḥ 70, arogaḥ 71, avidhavāḥ 72 are written solid). Inconsistent convention."
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "Then, in that same grief, having cremated the vulture Jaṭāyus, while searching the forest for Sītā he saw a rākṣasa (demon).",
+  "new": "Then, in that same grief, having cremated the vulture Jaṭāyus, while searching the forest for Sītā he saw a rākṣasa.",
+  "why": "reviewer (minor): Bracketed gloss inside the translation; rākṣasa is left untranslated and unbracketed everywhere else in the chunk (61, 66)."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "कबन्ध नामक, रूप से विकृत और घोर दर्शन वाले उस राक्षस को मारकर महाबाहु ने उसे जलाया, और वह स्वर्ग चला गया।",
+  "new": "कबन्ध नामक, रूप से विकृत और घोर दर्शन वाले उसको मारकर महाबाहु ने उसे जलाया, और वह स्वर्ग चला गया।",
+  "why": "reviewer (minor): The verse has only taṃ 'him'; 'राक्षस' is carried over from 44 and is an addition."
+ },
+ {
+  "n": "49",
+  "field": "word.gram",
+  "word": "duḥkhitena",
+  "old": "m. inst. sg., ppp √duḥkh",
+  "new": "m. inst. sg., ppp denom. duḥkhaya- (duḥkha + ita)",
+  "why": "reviewer (minor): There is no primary root √duḥkh; duḥkhita is the -ita participle of the denominative duḥkhaya- (or duḥkha + ita)."
+ },
+ {
+  "n": "50",
+  "field": "english",
+  "old": "And Rāma then made a promise concerning the slaying of Vālin; but Sugrīva was constantly doubtful about the prowess in the Rāghava.",
+  "new": "And Rāma then made a promise concerning the slaying of Vālin; and Sugrīva was constantly doubtful about the prowess in the Rāghava.",
+  "why": "reviewer (minor): ca is 'and'; 'but' adds a contrast the text does not mark."
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "और राम ने तब वालि-वध के विषय में प्रतिज्ञा की; किन्तु सुग्रीव राघव के पराक्रम के विषय में निरन्तर शंकित रहा।",
+  "new": "और राम ने तब वालि-वध के विषय में प्रतिज्ञा की; और सुग्रीव राघव के पराक्रम के विषय में निरन्तर शंकित रहा।",
+  "why": "reviewer (minor): Same: ca rendered as 'किन्तु'."
+ },
+ {
+  "n": "51",
+  "field": "word.gloss",
+  "word": "uttamam",
+  "old": "huge, foremost",
+  "new": "foremost, excellent (here taken as huge)",
+  "why": "reviewer (minor): uttama means 'highest, foremost, excellent'; 'huge' is an interpretation (reflected in English 'huge' and Hindi 'विशाल'). The note admits it, but the gloss should give the dictionary sense first."
+ },
+ {
+  "n": "54",
+  "field": "word.gram",
+  "word": "hema-piṅgalaḥ",
+  "old": "m. nom. sg., tat-puruṣa",
+  "new": "m. nom. sg., karmadhāraya (upamāna)",
+  "why": "reviewer (minor): 'tawny as gold' is a comparison compound (upamāna-pūrvapada karmadhāraya), not a tat-puruṣa."
+ },
+ {
+  "n": "56",
+  "field": "english",
+  "old": "And he, that bull among monkeys, having gathered all the monkeys, sent them out to the directions, wishing to see the daughter of Janaka.",
+  "new": "And he, the bull among monkeys, having gathered all the monkeys, sent them out to the directions, wishing to see the daughter of Janaka.",
+  "why": "reviewer (minor): No demonstrative in the text (sa ca ... vānararṣabhaḥ); 'that' is added."
+ },
+ {
+  "n": "56",
+  "field": "hindi",
+  "old": "और उस वानरश्रेष्ठ ने, जनक-पुत्री को देखने की इच्छा से, सब वानरों को एकत्र करके दिशाओं में भेजा।",
+  "new": "और वानरश्रेष्ठ ने, जनक-पुत्री को देखने की इच्छा से, सब वानरों को एकत्र करके दिशाओं में भेजा।",
+  "why": "reviewer (minor): Same added demonstrative 'उस'."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "वहाँ रावण द्वारा पालित लङ्का नगरी में पहुँचकर उसने अशोक-वाटिका में गई हुई, ध्यानमग्न सीता को देखा।",
+  "new": "वहाँ रावण द्वारा पालित लङ्का नगरी में पहुँचकर उसने अशोक-वाटिका में गई हुई, चिन्तामग्न सीता को देखा।",
+  "why": "reviewer (minor): dhyāyantīm is 'thinking, brooding' (English 'brooding'); 'ध्यानमग्न' suggests absorbed in meditation, a different shade."
+ },
+ {
+  "n": "60",
+  "field": "english",
+  "old": "Having killed five army leaders and seven sons of ministers too, and having crushed the hero Akṣa, he submitted to capture.",
+  "new": "Having killed five army leaders and seven sons of ministers too, and having crushed the hero Akṣa, he underwent capture.",
+  "why": "reviewer (minor): grahaṇaṃ samupāgamat = 'came to / underwent capture'. 'submitted' adds willingness, which is only stated in 61 (yadṛcchayā), not here. The Hindi passive is fine."
+ },
+ {
+  "n": "61",
+  "field": "hindi",
+  "old": "पितामह के वर के कारण अपने को अस्त्र से मुक्त जानकर भी, वह वीर अपनी इच्छा से उन बाँधने वाले राक्षसों को सहता रहा।",
+  "new": "पितामह के वर के कारण अपने को अस्त्र से मुक्त जानकर, वह वीर अपनी इच्छा से उन बाँधने वाले राक्षसों को सहता रहा।",
+  "why": "reviewer (error): 'भी' makes the clause concessive ('even though knowing'); the Sanskrit has plain jñātvā with no api. Unsupported addition that changes the logic; the English correctly has none."
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "pradakṣiṇam",
+  "old": "m. acc. sg.",
+  "new": "n. acc. sg. (noun; or m. acc. sg. adj. with rāmam)",
+  "why": "reviewer (minor): Gloss treats it as the noun 'circumambulation' but gram gives m. acc. sg.; the noun is n. If m., it is the adjective agreeing with rāmam ('having made Rāma pradakṣiṇa'). Make gloss and gram agree."
+ },
+ {
+  "n": "68",
+  "field": "word.gram",
+  "word": "sarva-daivataiḥ",
+  "old": "m. inst. pl., karmadhāraya",
+  "new": "n. inst. pl., karmadhāraya",
+  "why": "reviewer (minor): daivata 'deity' is neuter (daivatam); inst. pl. -aiḥ is the same but the gender label should be n."
+ },
+ {
+  "n": "71",
+  "field": "notes",
+  "old": "'nirāmayo arogaś' shows unresolved vowel hiatus (o + a) in the edition's own text; kept as printed, not a flag. lokaḥ 'the people/world'; the verse has no finite verb, 'were' supplied.",
+  "new": "'nirāmayo arogaś' shows unresolved vowel hiatus (o + a) in the edition's own text; kept as printed, not a flag. lokaḥ 'the people/world'; the verse has no finite verb, 'were' supplied. durbhikṣa-bhaya-varjitaḥ may also be read with durbhikṣa-bhaya as a tat-puruṣa: 'free from the fear of famine'. The verse has no verb; 'were' is supplied though 72-76 are future.",
+  "why": "reviewer (minor): The draft reads durbhikṣa-bhaya as a dvandva ('famine and fear'); the equally natural reading is a tat-puruṣa 'fear of famine' (free from the fear of famine). The alternative should be recorded, and the choice of past tense 'were/थे' for a verbless verse between past narration (70) and future predictions (72-76) is a decision that should be stated."
+ },
+ {
+  "n": "71",
+  "field": "notes",
+  "old": "'nirāmayo arogaś' shows unresolved vowel hiatus (o + a) in the edition's own text; kept as printed, not a flag. lokaḥ 'the people/world'; the verse has no finite verb, 'were' supplied. durbhikṣa-bhaya-varjitaḥ may also be read with durbhikṣa-bhaya as a tat-puruṣa: 'free from the fear of famine'. The verse has no verb; 'were' is supplied though 72-76 are future.",
+  "new": "'nirāmayo arogaś' shows unresolved vowel hiatus (o + a) in the edition's own text; kept as printed, not a flag. lokaḥ 'the people/world'; the verse has no finite verb, 'were' supplied. durbhikṣa-bhaya-varjitaḥ may also be read with durbhikṣa-bhaya as a tat-puruṣa: 'free from the fear of famine'. The verse has no verb; 'were' is supplied though 72-76 are future. Since this e-text marks avagraha with an apostrophe elsewhere, 'arogaś' here may be a missing avagraha ('rogaś) rather than a true hiatus; left as printed.",
+  "why": "reviewer (minor): This e-text writes avagraha as an apostrophe elsewhere (so'bhyagacchat 46, so'bhigamya 63, loke'smin 75, śūdro'pi 79), so o + a without avagraha here is more likely a missing avagraha ('rogaś) than genuine hiatus; the note states hiatus as fact."
+ }
+]

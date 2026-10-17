@@ -1,0 +1,364 @@
+[
+ {
+  "id": "03.045.33a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "03.050.32a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Spaces inside compounds are the file's splitting style; the words and metre are fine."
+ },
+ {
+  "id": "03.051.24b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "03.051.25b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "03.052.6a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "03.053.16b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "03.058.33b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "कान्तान्वेषणतत्परः split at the pada boundary is the file's style, not a typo."
+ },
+ {
+  "id": "03.060.2b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "03.061.12a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "03.064.7a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "03.071.18b",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "नीलां कुवलयोद्घातैर्बहुवर्णां कुथामिव",
+  "why": "उद्धात is not a usual word; उद्घात (one akshara away) fits the sense, but the edition reading cannot be confirmed from the context."
+ },
+ {
+  "id": "04.006.7a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.009.21a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.010.15b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.019.25b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.024.9a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.024.17b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.025.35a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.025.36b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.027.8b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.027.24a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.030.9a",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "सोऽग्रजेनानुशिष्टार्थो यथावत्पुरुषर्षभः",
+  "why": "Stray space after the avagraha splits the single word सोऽग्रजेन."
+ },
+ {
+  "id": "04.034.6b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.039.33a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.039.56a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.040.41a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.041.39b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.042.40b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.046.8a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.046.14b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.048.12a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.050.14a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.051.4a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.055.3a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.063.4a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "04.063.20a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.004.24b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.015.28a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.016.5b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.016.7b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.017.7b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.019.13a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.019.27b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.020.11b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.021.10a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.026.10a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.031.24a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.032.31b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.033.47a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.033.61a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.033.77b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.034.32b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.036.33a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.036.35c",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.040.23a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.040.35a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.041.6a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.042.7b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.045.14a",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ },
+ {
+  "id": "05.045.22b",
+  "kind": "sample",
+  "verdict": "ok",
+  "why": "Grammar, sandhi, metre and sense are regular; nothing wrong."
+ }
+]

@@ -1,0 +1,794 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "02.030.1a",
+   "02.030.1b"
+  ],
+  "lines_deva": [
+   "दत्त्वा तु सह वैदेह्या ब्राह्मणेभ्यो धनं बहु",
+   "जग्मतुः पितरं द्रष्टुं सीतया सह राघवौ"
+  ],
+  "lines_iast": [
+   "dattvā tu saha vaidehyā brāhmaṇebhyo dhanaṃ bahu",
+   "jagmatuḥ pitaraṃ draṣṭuṃ sītayā saha rāghavau"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "02.030.2a",
+   "02.030.2b"
+  ],
+  "lines_deva": [
+   "ततो गृहीते दुष्प्रेक्ष्ये अशोभेतां तदायुधे",
+   "मालादामभिरासक्ते सीतया समलङ्कृते"
+  ],
+  "lines_iast": [
+   "tato gṛhīte duṣprekṣye aśobhetāṃ tadāyudhe",
+   "mālādāmabhirāsakte sītayā samalaṅkṛte"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "02.030.3a",
+   "02.030.3b"
+  ],
+  "lines_deva": [
+   "ततः प्रासादहर्म्याणि विमानशिखराणि च",
+   "अधिरुह्य जनः श्रीमानुदासीनो व्यलोकयत्"
+  ],
+  "lines_iast": [
+   "tataḥ prāsādaharmyāṇi vimānaśikharāṇi ca",
+   "adhiruhya janaḥ śrīmānudāsīno vyalokayat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "02.030.4a",
+   "02.030.4b"
+  ],
+  "lines_deva": [
+   "न हि रथ्याः स्म शक्यन्ते गन्तुं बहुजनाकुलाः",
+   "आरुह्य तस्मात्प्रासादान् दीनाः पश्यन्ति राघवम्"
+  ],
+  "lines_iast": [
+   "na hi rathyāḥ sma śakyante gantuṃ bahujanākulāḥ",
+   "āruhya tasmātprāsādān dīnāḥ paśyanti rāghavam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "02.030.5a",
+   "02.030.5b"
+  ],
+  "lines_deva": [
+   "पदातिं वर्जितच्छत्रं रामं दृष्ट्वा तदा जनाः",
+   "ऊचुर्बहुविधा वाचः शोकोपहतचेतसः"
+  ],
+  "lines_iast": [
+   "padātiṃ varjitacchatraṃ rāmaṃ dṛṣṭvā tadā janāḥ",
+   "ūcurbahuvidhā vācaḥ śokopahatacetasaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "02.030.6a",
+   "02.030.6b"
+  ],
+  "lines_deva": [
+   "यं यान्तमनुयाति स्म चतुरङ्गबलं महत्",
+   "तमेकं सीतया सार्धमनुयाति स्म लक्ष्मणः"
+  ],
+  "lines_iast": [
+   "yaṃ yāntamanuyāti sma caturaṅgabalaṃ mahat",
+   "tamekaṃ sītayā sārdhamanuyāti sma lakṣmaṇaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "02.030.7a",
+   "02.030.7b"
+  ],
+  "lines_deva": [
+   "ऐश्वर्यस्य रसज्ञः सन् कामिनां चैव कामदः",
+   "नेच्छत्येवानृतं कर्तुं पितरं धर्मगौरवात्"
+  ],
+  "lines_iast": [
+   "aiśvaryasya rasajñaḥ san kāmināṃ caiva kāmadaḥ",
+   "necchatyevānṛtaṃ kartuṃ pitaraṃ dharmagauravāt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "8",
+  "type": "verse",
+  "line_ids": [
+   "02.030.8a",
+   "02.030.8b"
+  ],
+  "lines_deva": [
+   "या न शक्या पुरा द्रष्टुं भूतैराकाशगैरपि",
+   "तामद्य सीतां पश्यन्ति राजमार्गगता जनाः"
+  ],
+  "lines_iast": [
+   "yā na śakyā purā draṣṭuṃ bhūtairākāśagairapi",
+   "tāmadya sītāṃ paśyanti rājamārgagatā janāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "9",
+  "type": "verse",
+  "line_ids": [
+   "02.030.9a",
+   "02.030.9b"
+  ],
+  "lines_deva": [
+   "अङ्गरागोचितां सीतां रक्तचन्दन सेविनीम्",
+   "वर्षमुष्णं च शीतं च नेष्यत्याशु विवर्णताम्"
+  ],
+  "lines_iast": [
+   "aṅgarāgocitāṃ sītāṃ raktacandana sevinīm",
+   "varṣamuṣṇaṃ ca śītaṃ ca neṣyatyāśu vivarṇatām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "10",
+  "type": "verse",
+  "line_ids": [
+   "02.030.10a",
+   "02.030.10b"
+  ],
+  "lines_deva": [
+   "अद्य नूनं दशरथः सत्त्वमाविश्य भाषते",
+   "न हि राजा प्रियं पुत्रं विवासयितुमर्हति"
+  ],
+  "lines_iast": [
+   "adya nūnaṃ daśarathaḥ sattvamāviśya bhāṣate",
+   "na hi rājā priyaṃ putraṃ vivāsayitumarhati"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "11",
+  "type": "verse",
+  "line_ids": [
+   "02.030.11a",
+   "02.030.11b"
+  ],
+  "lines_deva": [
+   "निर्गुणस्यापि पुत्रस्या काथं स्याद्विप्रवासनम्",
+   "किं पुनर्यस्य लोकोऽयं जितो वृत्तेन केवलम्"
+  ],
+  "lines_iast": [
+   "nirguṇasyāpi putrasyā kāthaṃ syādvipravāsanam",
+   "kiṃ punaryasya loko'yaṃ jito vṛttena kevalam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "12",
+  "type": "verse",
+  "line_ids": [
+   "02.030.12a",
+   "02.030.12b"
+  ],
+  "lines_deva": [
+   "आनृशंस्यमनुक्रोशः श्रुतं शीलं दमः शमः",
+   "राघवं शोभयन्त्येते षड्गुणाः पुरुषोत्तमम्"
+  ],
+  "lines_iast": [
+   "ānṛśaṃsyamanukrośaḥ śrutaṃ śīlaṃ damaḥ śamaḥ",
+   "rāghavaṃ śobhayantyete ṣaḍguṇāḥ puruṣottamam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "13",
+  "type": "verse",
+  "line_ids": [
+   "02.030.13a",
+   "02.030.13b"
+  ],
+  "lines_deva": [
+   "तस्मात्तस्योपघातेन प्रजाः परमपीडिताः",
+   "औदकानीव सत्त्वानि ग्रीष्मे सलिलसङ्क्षयात्"
+  ],
+  "lines_iast": [
+   "tasmāttasyopaghātena prajāḥ paramapīḍitāḥ",
+   "audakānīva sattvāni grīṣme salilasaṅkṣayāt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "14",
+  "type": "verse",
+  "line_ids": [
+   "02.030.14a",
+   "02.030.14b"
+  ],
+  "lines_deva": [
+   "पीडया पीडितं सर्वं जगदस्य जगत्पतेः",
+   "मूलस्येवोपघातेन वृक्षः पुष्पफलोपगः"
+  ],
+  "lines_iast": [
+   "pīḍayā pīḍitaṃ sarvaṃ jagadasya jagatpateḥ",
+   "mūlasyevopaghātena vṛkṣaḥ puṣpaphalopagaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "15",
+  "type": "verse",
+  "line_ids": [
+   "02.030.15a",
+   "02.030.15b"
+  ],
+  "lines_deva": [
+   "ते लक्ष्मण इव क्षिप्रं सपत्न्यः सहबान्धवाः",
+   "गच्छन्तमनुगच्छामो येन गच्छति राघवः"
+  ],
+  "lines_iast": [
+   "te lakṣmaṇa iva kṣipraṃ sapatnyaḥ sahabāndhavāḥ",
+   "gacchantamanugacchāmo yena gacchati rāghavaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "16",
+  "type": "verse",
+  "line_ids": [
+   "02.030.16a",
+   "02.030.16b"
+  ],
+  "lines_deva": [
+   "उद्यानानि परित्यज्य क्षेत्राणि च गृहाणि च",
+   "एकदुःखसुखा राममनुगच्छाम धार्मिकम्"
+  ],
+  "lines_iast": [
+   "udyānāni parityajya kṣetrāṇi ca gṛhāṇi ca",
+   "ekaduḥkhasukhā rāmamanugacchāma dhārmikam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "17",
+  "type": "verse",
+  "line_ids": [
+   "02.030.17a",
+   "02.030.17b"
+  ],
+  "lines_deva": [
+   "समुद्धृतनिधानानि परिध्वस्ताजिराणि च",
+   "उपात्तधनधान्यानि हृतसाराणि सर्वशः"
+  ],
+  "lines_iast": [
+   "samuddhṛtanidhānāni paridhvastājirāṇi ca",
+   "upāttadhanadhānyāni hṛtasārāṇi sarvaśaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "18",
+  "type": "verse",
+  "line_ids": [
+   "02.030.18a",
+   "02.030.18b"
+  ],
+  "lines_deva": [
+   "रजसाभ्यवकीर्णानि परित्यक्तानि दैवतैः",
+   "अस्मत्त्यक्तानि वेश्मानि कैकेयी प्रतिपद्यताम्"
+  ],
+  "lines_iast": [
+   "rajasābhyavakīrṇāni parityaktāni daivataiḥ",
+   "asmattyaktāni veśmāni kaikeyī pratipadyatām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "19",
+  "type": "verse",
+  "line_ids": [
+   "02.030.19a",
+   "02.030.19b"
+  ],
+  "lines_deva": [
+   "वनं नगरमेवास्तु येन गच्छति राघवः",
+   "अस्माभिश्च परित्यक्तं पुरं सम्पद्यतां वनम्"
+  ],
+  "lines_iast": [
+   "vanaṃ nagaramevāstu yena gacchati rāghavaḥ",
+   "asmābhiśca parityaktaṃ puraṃ sampadyatāṃ vanam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "20",
+  "type": "verse",
+  "line_ids": [
+   "02.030.20a",
+   "02.030.20b"
+  ],
+  "lines_deva": [
+   "बिलानि दंष्ट्रिणः सर्वे सानूनि मृगपक्षिणः",
+   "अस्मत्त्यक्तं प्रपद्यन्तां सेव्यमानं त्यजन्तु च"
+  ],
+  "lines_iast": [
+   "bilāni daṃṣṭriṇaḥ sarve sānūni mṛgapakṣiṇaḥ",
+   "asmattyaktaṃ prapadyantāṃ sevyamānaṃ tyajantu ca"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "21",
+  "type": "verse",
+  "line_ids": [
+   "02.030.21a",
+   "02.030.21b"
+  ],
+  "lines_deva": [
+   "इत्येवं विविधा वाचो नानाजनसमीरिताः",
+   "शुश्राव रामः श्रुत्वा च न विचक्रेऽस्य मानसं"
+  ],
+  "lines_iast": [
+   "ityevaṃ vividhā vāco nānājanasamīritāḥ",
+   "śuśrāva rāmaḥ śrutvā ca na vicakre'sya mānasaṃ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "22",
+  "type": "verse",
+  "line_ids": [
+   "02.030.22a",
+   "02.030.22b"
+  ],
+  "lines_deva": [
+   "प्रतीक्षमाणोऽभिजनं तदार्तम्॑ अनार्तरूपः प्रहसन्निवाथ",
+   "जगाम रामः पितरं दिदृक्षुः॑ पितुर्निदेशं विधिवच्चिकीर्षुः"
+  ],
+  "lines_iast": [
+   "pratīkṣamāṇo'bhijanaṃ tadārtam̭ anārtarūpaḥ prahasannivātha",
+   "jagāma rāmaḥ pitaraṃ didṛkṣṷḥ piturnideśaṃ vidhivaccikīrṣuḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "23",
+  "type": "verse",
+  "line_ids": [
+   "02.030.23a",
+   "02.030.23b"
+  ],
+  "lines_deva": [
+   "तत्पूर्वमैक्ष्वाकसुतो महात्मा॑ रामो गमिष्यन् वनमार्तरूपम्",
+   "व्यतिष्ठत प्रेक्ष्य तदा सुमन्त्रं॑ पितुर्महात्मा प्रतिहारणार्थम्"
+  ],
+  "lines_iast": [
+   "tatpūrvamaikṣvākasuto mahātmā̭ rāmo gamiṣyan vanamārtarūpam",
+   "vyatiṣṭhata prekṣya tadā sumantra̭ṃ piturmahātmā pratihāraṇārtham"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ },
+ {
+  "n": "24",
+  "type": "verse",
+  "line_ids": [
+   "02.030.24a",
+   "02.030.24b"
+  ],
+  "lines_deva": [
+   "पितुर्निदेशेन तु धर्मवत्सलो॑ वनप्रवेशे कृतबुद्धिनिश्चयः",
+   "स राघवः प्रेक्ष्य सुमन्त्रमब्रवीन्॑ निवेदयस्वागमनं नृपाय मे"
+  ],
+  "lines_iast": [
+   "piturnideśena tu dharmavatsalo̭ vanapraveśe kṛtabuddhiniścayaḥ",
+   "sa rāghavaḥ prekṣya sumantramabravīṋ nivedayasvāgamanaṃ nṛpāya me"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "",
+   ""
+  ]
+ }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "id": "05.001.190a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.001.190b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.002.53a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.002.53b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.006.15a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 13+13 rucirā line; the 26 count is the metre, not an error."
+ },
+ {
+  "id": "05.006.15b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 13+13 rucirā line; the 26 count is the metre, not an error."
+ },
+ {
+  "id": "05.006.16a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 13+13 rucirā line; the 26 count is the metre, not an error."
+ },
+ {
+  "id": "05.006.16b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 13+13 rucirā line; the 26 count is the metre, not an error."
+ },
+ {
+  "id": "05.006.17a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 13+13 rucirā line; the 26 count is the metre, not an error."
+ },
+ {
+  "id": "05.006.17b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 13+13 rucirā line; the 26 count is the metre, not an error."
+ },
+ {
+  "id": "05.010.1a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.010.1b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.010.2a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.010.2b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.010.3b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.010.4a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.010.4b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.010.5a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.010.5b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.011.68a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.011.68b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.011.69a",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "क्षुद्रेण पापेन नृशंसकर्मणा॑ सुदारुणालङ्कृतवेषधारिणा",
+  "why": "'अलाङ्कृत' is no word; sudāruṇa+alaṅkṛta gives सुदारुणालङ्कृत (extra ā-mātrā on ला)."
+ },
+ {
+  "id": "05.011.69b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Hiatus 'अभिभूता अबला' is the edition's style; metre and sense fine."
+ },
+ {
+  "id": "05.014.30a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+13 puṣpitāgrā (bhavitra) line; the 25 count is the metre, not an error."
+ },
+ {
+  "id": "05.014.30b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+13 puṣpitāgrā (bhavitra) line; the 25 count is the metre, not an error."
+ },
+ {
+  "id": "05.017.21a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.017.21b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.018.34a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+13 puṣpitāgrā (bhavitra) line; the 25 count is the metre, not an error."
+ },
+ {
+  "id": "05.018.34b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+13 puṣpitāgrā (bhavitra) line; the 25 count is the metre, not an error."
+ },
+ {
+  "id": "05.018.35a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+13 puṣpitāgrā (bhavitra) line; the 25 count is the metre, not an error."
+ },
+ {
+  "id": "05.018.35b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+13 puṣpitāgrā (bhavitra) line; the 25 count is the metre, not an error."
+ },
+ {
+  "id": "05.019.30b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.020.41a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.020.41b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.027.1a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.027.1b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.028.44a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular puṣpitāgrā line; 'जगतिपतेः' is the attested epic short form."
+ },
+ {
+  "id": "05.028.44b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+13 puṣpitāgrā (bhavitra) line; the 25 count is the metre, not an error."
+ },
+ {
+  "id": "05.030.8b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.033.80a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular vaṃśastha line; 'शम्बसादने' is a name/place, kept as is."
+ },
+ {
+  "id": "05.033.80b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.035.65a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.035.65b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.035.66a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.035.66b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.035.67a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.035.67b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.035.68a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.035.68b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.036.56a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+13 puṣpitāgrā (bhavitra) line; the 25 count is the metre, not an error."
+ },
+ {
+  "id": "05.036.56b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+13 puṣpitāgrā (bhavitra) line; the 25 count is the metre, not an error."
+ },
+ {
+  "id": "05.039.3a",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "न साम रक्षःसु गुणाय कल्पते॑ न दानमर्थोपचितेषु वर्तते",
+  "why": "'दनम्' is no word; दानम् (gift, the second upāya) is needed and vaṃśastha wants a heavy 2nd syllable."
+ },
+ {
+  "id": "05.039.3b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.039.4a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.039.4b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.039.7a",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.039.7b",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.039.8b",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "कथं नु खल्वद्य भवेत्सुखागतं॑ प्रसह्य युद्धं मम राक्षसैः सह",
+  "why": "Stray line break: 'सह' completes the previous pāda 'प्रसह्य युद्धं मम राक्षसैः' from 10 to the 12 syllables of vaṃśastha."
+ },
+ {
+  "id": "05.039.8c",
+  "kind": "metre",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Regular 12+12 vaṃśastha/indravaṃśā line; the 24 count is the metre, not an error."
+ },
+ {
+  "id": "05.039.11a",
+  "kind": "metre",
+  "verdict": "error",
+  "suggest": "ततो महत्साश्वमहारथद्विपं॑ बलं समानेष्यति राक्षसाधिपः",
+  "why": "'समानेष्वपि' is meaningless with accusative बलं; the future समानेष्यति matches करिष्यति/भविष्यति around it."
+ }
+]

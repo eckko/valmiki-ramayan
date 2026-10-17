@@ -1,0 +1,422 @@
+[
+ {
+  "id": "07.029.40b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "The ॑ is the pada-boundary marker; राक्षसो is a normal sandhi form before मुदितमना."
+ },
+ {
+  "id": "07.079.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पप्रच्छतुः is the dual perfect agreeing with तौ in the previous line."
+ },
+ {
+  "id": "03.014.26b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "परिष्वङ्गो (nominative, 'embrace') is the subject of कृतः; grammatical and metrical."
+ },
+ {
+  "id": "01.012.31b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सुसमाहितैः is instrumental plural agreeing with पुरुषैः."
+ },
+ {
+  "id": "01.028.20a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सुसमाहितौ is dual agreeing with कुमारौ."
+ },
+ {
+  "id": "01.047.18a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सुसमाहिते is a vocative addressed to Ahalya, parallel to सुमध्यमे in the next line."
+ },
+ {
+  "id": "02.017.5b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "न्यवेदयन्त is the plural with the subject स्त्रियः of the previous line."
+ },
+ {
+  "id": "02.052.11a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "अब्रवीन्मां is correct sandhi of अब्रवीत् माम्."
+ },
+ {
+  "id": "02.074.16a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मुहूर्तेषु is locative plural parallel to नक्षत्रेषु."
+ },
+ {
+  "id": "03.060.51a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "यथाविधिः is a nominative in a list of comparisons (जरा, मृत्युः, कालः)."
+ },
+ {
+  "id": "05.003.23b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "राघवार्थं 'for Raghava's sake' is a normal compound; sense and metre fit."
+ },
+ {
+  "id": "05.025.30b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "राघवाद्धि is correct sandhi of राघवात् हि."
+ },
+ {
+  "id": "05.030.8b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वनौकसा is instrumental agreeing with अनेन; correct sandhi before तच्च."
+ },
+ {
+  "id": "05.046.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "हनूमताक्षे resolves to हनूमता अक्षे, 'when Aksha was slain by Hanuman'."
+ },
+ {
+  "id": "06.020.14a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "अब्रवीत्स is the regular sandhi of अब्रवीत् सः."
+ },
+ {
+  "id": "06.057.89a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वनौकसां is genitive plural parallel to त्रिदशोत्तमानाम्."
+ },
+ {
+  "id": "06.069.12a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पतितायां शिलायां is a locative absolute; grammatical."
+ },
+ {
+  "id": "06.077.22b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "परवीरघ्नं is accusative agreeing with लक्ष्मणम्."
+ },
+ {
+  "id": "07.023.21b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "अब्रवीत्क्व is correct sandhi of अब्रवीत् क्व."
+ },
+ {
+  "id": "07.026.33b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पतितासि is पतिता असि, 'you have fallen', addressed to Rambha."
+ },
+ {
+  "id": "07.027.13b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "अब्रवीन्न is correct sandhi of अब्रवीत् न."
+ },
+ {
+  "id": "07.085.15a",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "वन्येन फलमूलेन निरतौ स्वो वनौकसौ",
+  "why": "निरतु is not a Sanskrit form; the dual निरतौ agreeing with वनौकसौ (and स्वः 'we two are') is required, and the metre still fits."
+ },
+ {
+  "id": "02.036.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "कृताञ्जलौ is locative absolute with निष्क्रामति पुरुषव्याघ्रे."
+ },
+ {
+  "id": "02.085.20a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "कृताञ्जलेः is genitive agreeing with ध्यायतः तस्य प्राङ्मुखस्य."
+ },
+ {
+  "id": "02.073.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "चतुर्दशे is locative agreeing with दिवसे."
+ },
+ {
+  "id": "02.001.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "नरश्रेष्ठः is the nominative subject of ययौ."
+ },
+ {
+  "id": "02.076.27a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "The ॑ is the pada-boundary marker; प्रतापवान् is sound."
+ },
+ {
+  "id": "03.023.6b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "जीवितस्य संशयः 'doubt of life' is correct genitive."
+ },
+ {
+  "id": "02.041.32b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "करिष्यामो is the 1st plural with sandhi before दैवेन; fits the speakers."
+ },
+ {
+  "id": "05.059.21b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "The ॑ is the pada-boundary marker; समेत्य is sound."
+ },
+ {
+  "id": "02.007.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "कैकेय्यास्तु is कैकेय्याः तु, genitive with ज्ञातिदासी."
+ },
+ {
+  "id": "02.073.6b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "भरतस्तं is भरतः तम्; subject and object both needed by प्रत्युवाच."
+ },
+ {
+  "id": "03.040.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "दुरात्मनि is locative agreeing with त्वयि."
+ },
+ {
+  "id": "06.047.128a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "The ॑ is the pada-boundary marker; जघान is sound."
+ },
+ {
+  "id": "02.087.27b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "समागमं is accusative object of जानती."
+ },
+ {
+  "id": "04.030.37a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "समागतौ is dual agreeing with मन्त्रिणौ of the next line."
+ },
+ {
+  "id": "06.023.42b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "समागतं is accusative object of न्यवेदयन्."
+ },
+ {
+  "id": "02.059.14a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "यशस्विनं is accusative agreeing with पार्थिवर्षभम्."
+ },
+ {
+  "id": "02.110.23a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "यशस्विना is instrumental agreeing with अनेन (राघवेण)."
+ },
+ {
+  "id": "05.056.70a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "दशग्रीवे is locative absolute with याते तस्मिन्."
+ },
+ {
+  "id": "02.093.16b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सीतायाश्च is सीतायाः च, genitive parallel to रामस्य."
+ },
+ {
+  "id": "01.048.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "कर्तुमर्हथ is 2nd plural addressing सुरवराः सर्वे."
+ },
+ {
+  "id": "06.048.33b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "The ॑ is the pada-boundary marker; कुम्भकर्णं is sound."
+ },
+ {
+  "id": "01.019.18c",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "करिष्यतः is the dual future for the two rakshasas Maricha and Subahu."
+ },
+ {
+  "id": "02.014.25a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "गमिष्यन् is a future participle agreeing with राघवः."
+ },
+ {
+  "id": "02.061.24a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "जीवत्यपि महाराजे is a locative absolute."
+ },
+ {
+  "id": "02.066.24a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "महाराजः is the nominative subject of जानाति."
+ },
+ {
+  "id": "02.110.7b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "समाहितं is neuter agreeing with यत् स्थितम्."
+ },
+ {
+  "id": "01.013.5b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मुनिपुङ्गवाः is the plural subject of चक्रुः in the previous line."
+ },
+ {
+  "id": "01.071.9b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मुनिपुङ्गवौ is dual for Vishvamitra and Vasishtha, addressed with यदाज्ञापयथः."
+ },
+ {
+  "id": "02.065.11b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "नरव्याघ्रो is the nominative subject of ततार."
+ },
+ {
+  "id": "04.039.27a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "नरव्याघ्रा (नरव्याघ्राः) is nominative plural with घोराः and श्रुताः."
+ },
+ {
+  "id": "01.002.25b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "महर्षये is dative agreeing with वाल्मीकये."
+ },
+ {
+  "id": "01.018.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "कामरूपिणौ is dual agreeing with राक्षसौ द्वौ."
+ },
+ {
+  "id": "05.014.12a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सागरश्च is सागरः च, nominative with क्रान्तः."
+ },
+ {
+  "id": "01.005.22a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "महारथैः is instrumental plural parallel to सहस्रैः."
+ },
+ {
+  "id": "05.045.32a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "The ॑ is the pada-boundary marker; महारथः is sound."
+ },
+ {
+  "id": "06.053.24b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "The ॑ is the pada-boundary marker; रराज is sound."
+ },
+ {
+  "id": "06.083.8a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "महारथाः is nominative plural with ते and ययुः/तस्थुः."
+ },
+ {
+  "id": "03.033.7b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "राक्षसाधिपतिः is the nominative subject of ययौ."
+ }
+]
